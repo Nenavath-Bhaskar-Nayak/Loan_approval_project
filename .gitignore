@@ -27,9 +27,13 @@ Thumbs.db
 
 # Logs
 *.log
-
-# Temporary files
 *.tmp
 
 # Model experiment files
 *.joblib
+!models/loan_approval_model.pkl
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
