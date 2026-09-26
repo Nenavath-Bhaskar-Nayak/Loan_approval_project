@@ -1,0 +1,1001 @@
+Loan_ID,Age,Gender,Married,Education,Employment_Type,Annual_Income,Credit_Score,Loan_Amount,Loan_Term,Existing_Loans,Debt_to_Income,Property_Ownership,Dependents,Loan_Status
+LN100001,59,Male,No,Not Graduate,Business,1537000.0,715.0,703000.0,60,2,0.31,Owned,2,Rejected
+LN100002,49,Female,No,Graduate,Salaried,547000.0,693.0,143000.0,60,3,0.34,Rented,,Rejected
+LN100003,35,Female,Yes,Not Graduate,Salaried,543000.0,668.0,143000.0,48,2,0.28,Rented,3+,Rejected
+LN100004,28,Male,Yes,Not Graduate,Salaried,327000.0,705.0,266000.0,60,2,0.37,Owned,2,Rejected
+LN100005,41,Male,Yes,Graduate,Salaried,266000.0,652.0,197000.0,60,0,0.24,Owned,0,Approved
+LN100006,59,Male,No,Graduate,Self-employed,572000.0,722.0,394000.0,24,1,0.27,Owned,2,Approved
+LN100007,39,Male,Yes,Graduate,Salaried,497000.0,597.0,306000.0,60,1,0.3,Rented,0,Approved
+LN100008,43,Female,Yes,Not Graduate,Daily Wage,601000.0,673.0,,24,0,0.19,Family,2,Rejected
+LN100009,31,Male,Yes,Not Graduate,Self-employed,629000.0,738.0,283000.0,36,1,0.25,Rented,0,Rejected
+LN100010,31,Male,Yes,Not Graduate,Salaried,2359000.0,714.0,,24,0,0.06,Rented,2,Approved
+LN100011,44,Male,No,Not Graduate,Business,498000.0,660.0,471000.0,36,2,0.34,Owned,0,Rejected
+LN100012,56,Male,No,Graduate,Business,1431000.0,675.0,409000.0,60,1,0.24,Owned,3+,Approved
+LN100013,60,Male,Yes,Not Graduate,Business,1480000.0,757.0,866000.0,60,1,0.24,Owned,0,Rejected
+LN100014,44,Female,No,Not Graduate,Salaried,908000.0,611.0,275000.0,36,4,0.33,Rented,1,Rejected
+LN100015,23,Male,No,Graduate,Business,527000.0,612.0,302000.0,48,1,0.28,Owned,,Approved
+LN100016,42,Female,Yes,Graduate,Business,284000.0,630.0,244000.0,48,1,0.31,Rented,3+,Approved
+LN100017,22,Male,Yes,Not Graduate,Salaried,780000.0,689.0,254000.0,60,0,0.14,Family,2,Approved
+LN100018,44,Male,Yes,Graduate,Salaried,1051000.0,602.0,315000.0,36,3,0.37,Rented,0,Rejected
+LN100019,50,Male,Yes,Not Graduate,Self-employed,1569000.0,752.0,942000.0,60,1,0.31,Rented,3+,Rejected
+LN100020,58,Female,No,Graduate,,356000.0,630.0,259000.0,60,1,0.28,Rented,1,Rejected
+LN100021,22,Female,Yes,Graduate,Business,525000.0,705.0,50000.0,36,0,0.14,Owned,2,Rejected
+LN100022,41,Male,No,Not Graduate,Salaried,357000.0,652.0,380000.0,60,1,0.27,Owned,2,Rejected
+LN100023,53,,Yes,Graduate,Daily Wage,423000.0,686.0,50000.0,60,0,0.16,Family,0,Approved
+LN100024,32,Female,Yes,Graduate,Self-employed,865000.0,586.0,513000.0,60,2,0.28,Rented,3+,Rejected
+LN100025,42,Male,Yes,Graduate,Salaried,413000.0,755.0,112000.0,36,2,0.21,Rented,1,Approved
+LN100026,45,Male,Yes,Not Graduate,Salaried,381000.0,628.0,98000.0,36,2,0.19,Owned,0,Rejected
+LN100027,47,Female,Yes,Graduate,Self-employed,930000.0,621.0,451000.0,60,2,0.23,Rented,2,Rejected
+LN100028,48,,No,Not Graduate,Business,769000.0,845.0,292000.0,36,1,0.26,Owned,2,Approved
+LN100029,36,Male,Yes,Graduate,Business,727000.0,726.0,216000.0,48,2,0.29,Owned,0,Approved
+LN100030,35,Male,Yes,Not Graduate,Salaried,419000.0,753.0,191000.0,24,1,0.21,Owned,0,Approved
+LN100031,23,Male,Yes,Not Graduate,Salaried,1222000.0,720.0,461000.0,12,1,0.25,Rented,2,Rejected
+LN100032,57,Male,Yes,Graduate,Salaried,605000.0,661.0,295000.0,36,0,0.17,Owned,0,Approved
+LN100033,27,Female,Yes,Graduate,Self-employed,2222000.0,605.0,730000.0,48,0,0.17,Owned,3+,Approved
+LN100034,41,Male,Yes,Graduate,Salaried,656000.0,671.0,,36,1,0.23,Rented,2,Approved
+LN100035,29,Male,Yes,Graduate,Salaried,180000.0,626.0,50000.0,48,1,0.2,Rented,0,Rejected
+LN100036,59,Male,Yes,Graduate,Self-employed,180000.0,630.0,50000.0,48,0,0.12,Rented,1,Approved
+LN100037,38,Male,Yes,Graduate,Daily Wage,846000.0,587.0,357000.0,60,2,0.26,Rented,1,Approved
+LN100038,24,Female,Yes,Graduate,Salaried,1227000.0,697.0,655000.0,48,0,0.22,Family,1,Rejected
+LN100039,45,Male,Yes,Graduate,Salaried,390000.0,792.0,304000.0,36,0,,Owned,2,Approved
+LN100040,34,Male,Yes,Graduate,Self-employed,1905000.0,726.0,1219000.0,36,2,0.31,Owned,3+,Approved
+LN100041,29,Female,No,Graduate,Self-employed,1498000.0,683.0,676000.0,24,1,0.18,,1,Rejected
+LN100042,46,Male,No,Not Graduate,Salaried,674000.0,687.0,291000.0,48,2,0.37,Owned,1,Approved
+LN100043,22,Male,Yes,Graduate,Daily Wage,807000.0,492.0,299000.0,48,1,0.22,Rented,0,Rejected
+LN100044,40,Male,Yes,Graduate,Business,981000.0,662.0,691000.0,36,3,0.4,Rented,2,Rejected
+LN100045,48,Male,No,Graduate,Salaried,1697000.0,597.0,435000.0,36,1,0.16,Family,2,Rejected
+LN100046,27,Male,No,Not Graduate,Salaried,873000.0,699.0,,60,0,0.21,Family,2,Rejected
+LN100047,28,Male,Yes,Not Graduate,Self-employed,665000.0,673.0,380000.0,12,1,0.31,Family,0,Rejected
+LN100048,55,Female,No,Not Graduate,Business,868000.0,633.0,,60,0,0.1,Owned,3+,Approved
+LN100049,34,Male,Yes,Not Graduate,Salaried,806000.0,697.0,94000.0,12,3,0.28,Family,0,Rejected
+LN100050,37,Male,Yes,Graduate,Business,998000.0,,545000.0,60,0,0.19,Owned,2,Approved
+LN100051,56,Male,,Not Graduate,Self-employed,253000.0,789.0,105000.0,36,1,0.31,Rented,2,Rejected
+LN100052,60,Male,Yes,Not Graduate,Salaried,714000.0,735.0,483000.0,36,0,0.27,Rented,2,Rejected
+LN100053,24,Female,No,Graduate,Business,773000.0,704.0,536000.0,36,2,0.28,Owned,1,Approved
+LN100054,22,Male,No,Not Graduate,Daily Wage,576000.0,628.0,107000.0,12,0,0.11,Rented,1,Rejected
+LN100055,26,Male,Yes,Graduate,Salaried,924000.0,620.0,159000.0,36,4,,Owned,0,Rejected
+LN100056,24,Female,Yes,Graduate,Salaried,1726000.0,729.0,839000.0,24,0,0.2,Owned,2,Rejected
+LN100057,49,Male,Yes,Graduate,Salaried,647000.0,677.0,289000.0,60,0,0.24,Family,0,Rejected
+LN100058,38,Male,Yes,Graduate,Business,878000.0,706.0,495000.0,36,0,0.21,Owned,1,Approved
+LN100059,46,Male,No,Graduate,Daily Wage,1452000.0,754.0,509000.0,60,2,0.29,Owned,0,Rejected
+LN100060,54,Male,Yes,Graduate,Salaried,656000.0,592.0,272000.0,24,3,0.32,Rented,2,Approved
+LN100061,30,Female,Yes,Graduate,Business,368000.0,781.0,240000.0,60,0,0.23,Family,1,Approved
+LN100062,56,Male,No,Graduate,Self-employed,842000.0,753.0,364000.0,48,0,0.16,Owned,2,Approved
+LN100063,34,Male,Yes,Not Graduate,Self-employed,180000.0,556.0,50000.0,24,2,0.2,Owned,2,Rejected
+LN100064,51,,No,Graduate,Salaried,180000.0,843.0,78000.0,36,0,0.19,Family,2,Rejected
+LN100065,35,Female,Yes,Graduate,Salaried,721000.0,711.0,236000.0,24,0,0.16,Owned,0,Rejected
+LN100066,28,Male,No,Not Graduate,Salaried,180000.0,659.0,50000.0,24,0,0.11,,2,Rejected
+LN100067,34,Female,Yes,Not Graduate,Self-employed,291000.0,724.0,135000.0,36,0,0.24,Rented,1,Approved
+LN100068,43,Male,Yes,Graduate,Salaried,487000.0,626.0,298000.0,60,0,0.18,Rented,0,Rejected
+LN100069,60,Female,Yes,Not Graduate,Daily Wage,403000.0,725.0,167000.0,60,0,0.2,,0,Rejected
+LN100070,41,Female,Yes,Not Graduate,Salaried,553000.0,638.0,255000.0,36,1,0.23,Owned,0,Rejected
+LN100071,36,Female,No,Not Graduate,Salaried,1107000.0,821.0,411000.0,60,2,0.33,Family,,Approved
+LN100072,38,Female,No,Graduate,Self-employed,684000.0,694.0,350000.0,60,0,0.18,Family,1,Approved
+LN100073,44,Male,Yes,Graduate,Business,378000.0,732.0,295000.0,60,2,0.29,Owned,0,Rejected
+LN100074,46,Male,Yes,Graduate,Salaried,1264000.0,639.0,353000.0,36,0,0.18,Owned,1,Approved
+LN100075,45,Male,Yes,Graduate,Salaried,273000.0,743.0,50000.0,24,1,0.24,Family,0,Approved
+LN100076,49,Male,Yes,Graduate,Daily Wage,678000.0,689.0,124000.0,24,0,0.12,Rented,0,Approved
+LN100077,35,Male,Yes,Graduate,Salaried,257000.0,598.0,176000.0,48,2,0.36,Rented,3+,Rejected
+LN100078,21,Male,No,Graduate,Salaried,689000.0,674.0,285000.0,36,0,0.18,Rented,1,Approved
+LN100079,45,Male,Yes,Graduate,Business,504000.0,816.0,248000.0,24,3,0.34,Rented,0,Approved
+LN100080,27,Male,Yes,Graduate,Salaried,1088000.0,746.0,665000.0,36,0,0.24,Family,1,Approved
+LN100081,29,Female,Yes,Not Graduate,Salaried,892000.0,665.0,195000.0,12,1,0.17,,0,Approved
+LN100082,44,Male,No,Graduate,Salaried,434000.0,569.0,263000.0,60,3,0.38,Owned,0,Rejected
+LN100083,21,Female,No,Graduate,Salaried,391000.0,636.0,163000.0,12,1,0.24,Family,0,Rejected
+LN100084,28,Female,No,Not Graduate,Salaried,505000.0,599.0,338000.0,48,1,0.28,Family,3+,Rejected
+LN100085,44,Female,Yes,Graduate,Salaried,1683000.0,570.0,447000.0,60,3,0.29,Rented,2,Approved
+LN100086,31,Male,Yes,Not Graduate,,1462000.0,741.0,1084000.0,24,0,0.31,Family,2,Rejected
+LN100087,37,Female,No,Not Graduate,Salaried,352000.0,694.0,221000.0,48,0,0.26,Rented,,Rejected
+LN100088,28,Female,No,Graduate,Business,932000.0,807.0,409000.0,60,4,0.43,Owned,3+,Rejected
+LN100089,55,Female,Yes,Not Graduate,Salaried,232000.0,625.0,101000.0,36,0,0.23,Family,2,Rejected
+LN100090,55,Male,No,Graduate,Salaried,469000.0,690.0,215000.0,24,2,0.29,Rented,2,Approved
+LN100091,53,Male,No,Graduate,Business,360000.0,599.0,213000.0,36,0,0.19,Owned,0,Approved
+LN100092,25,Male,Yes,Graduate,Self-employed,1080000.0,651.0,673000.0,48,2,0.28,Owned,0,Rejected
+LN100093,59,Male,No,Graduate,Salaried,295000.0,676.0,173000.0,48,1,0.24,Rented,1,Approved
+LN100094,48,Male,Yes,Not Graduate,Daily Wage,760000.0,666.0,519000.0,24,4,0.41,Family,1,Rejected
+LN100095,27,Female,Yes,Graduate,Salaried,600000.0,693.0,140000.0,36,1,0.18,Owned,3+,Rejected
+LN100096,29,Female,Yes,Graduate,Salaried,545000.0,753.0,153000.0,36,0,0.16,Owned,1,Approved
+LN100097,28,Male,No,Graduate,Business,1505000.0,746.0,1074000.0,60,1,0.32,Rented,2,Rejected
+LN100098,32,Female,No,Graduate,Self-employed,1579000.0,640.0,1130000.0,36,0,0.26,Family,1,Rejected
+LN100099,54,Male,No,Graduate,Salaried,554000.0,688.0,211000.0,60,2,0.24,Rented,0,Approved
+LN100100,53,Female,Yes,Graduate,Salaried,496000.0,742.0,335000.0,36,2,0.36,Rented,1,Rejected
+LN100101,43,Female,No,Not Graduate,Self-employed,262000.0,757.0,174000.0,60,1,,Rented,1,Approved
+LN100102,44,Male,No,Graduate,Salaried,,647.0,202000.0,48,2,0.26,Owned,1,Rejected
+LN100103,57,Male,No,Graduate,Daily Wage,1757000.0,736.0,1152000.0,48,0,0.26,Rented,1,Rejected
+LN100104,55,Female,No,Graduate,Salaried,559000.0,712.0,280000.0,36,1,0.28,Owned,0,Approved
+LN100105,60,Male,No,Graduate,Business,896000.0,621.0,257000.0,60,1,0.16,Family,1,Approved
+LN100106,42,Male,Yes,Not Graduate,Self-employed,278000.0,742.0,181000.0,36,1,0.35,Owned,1,Rejected
+LN100107,47,Female,Yes,Graduate,Business,472000.0,700.0,172000.0,36,0,0.14,Rented,1,Rejected
+LN100108,55,Male,Yes,Graduate,Business,774000.0,577.0,498000.0,48,2,0.36,Owned,1,Rejected
+LN100109,21,Female,Yes,Graduate,Business,636000.0,671.0,259000.0,60,0,0.21,Rented,0,Rejected
+LN100110,55,Male,No,Not Graduate,Salaried,944000.0,693.0,589000.0,60,1,0.22,Owned,0,Rejected
+LN100111,57,,No,Graduate,Salaried,431000.0,651.0,147000.0,36,0,0.17,Owned,0,Rejected
+LN100112,34,Male,Yes,Graduate,Salaried,229000.0,770.0,50000.0,60,2,0.28,Owned,1,Rejected
+LN100113,23,Female,Yes,Not Graduate,Business,1112000.0,772.0,411000.0,48,0,0.12,Rented,1,Approved
+LN100114,21,Female,No,Graduate,Business,359000.0,665.0,341000.0,60,1,0.33,Owned,2,Rejected
+LN100115,25,Male,Yes,Not Graduate,Salaried,793000.0,658.0,626000.0,60,0,0.28,Rented,,Approved
+LN100116,46,Male,Yes,Not Graduate,Salaried,769000.0,681.0,302000.0,48,2,0.32,Rented,0,Rejected
+LN100117,34,Female,Yes,Graduate,Salaried,240000.0,677.0,267000.0,36,0,0.29,Rented,1,Rejected
+LN100118,59,Male,Yes,Graduate,Self-employed,1068000.0,651.0,786000.0,60,2,0.4,Rented,1,Rejected
+LN100119,47,Male,Yes,Graduate,Salaried,439000.0,450.0,212000.0,48,0,0.23,Family,1,Rejected
+LN100120,29,Male,Yes,,Business,618000.0,804.0,155000.0,60,2,0.26,Owned,2,Rejected
+LN100121,35,Male,Yes,Not Graduate,Daily Wage,,690.0,363000.0,36,0,0.21,Owned,2,Approved
+LN100122,35,Female,No,Graduate,Salaried,1465000.0,678.0,736000.0,12,0,0.15,Family,0,Rejected
+LN100123,46,Female,Yes,Graduate,Salaried,1256000.0,711.0,931000.0,12,1,0.3,Owned,3+,Rejected
+LN100124,33,Male,No,Not Graduate,Salaried,221000.0,685.0,135000.0,48,0,0.26,Family,0,Rejected
+LN100125,52,Male,Yes,Graduate,Salaried,2078000.0,662.0,1333000.0,60,0,0.21,Owned,2,Approved
+LN100126,59,Male,Yes,Graduate,Salaried,413000.0,625.0,60000.0,12,3,0.26,Rented,2,Rejected
+LN100127,52,Male,No,Graduate,Salaried,1907000.0,570.0,631000.0,60,4,0.41,Owned,2,Rejected
+LN100128,24,Male,Yes,Graduate,Business,521000.0,602.0,108000.0,60,2,0.25,Family,0,Approved
+LN100129,50,Female,Yes,Not Graduate,Salaried,497000.0,617.0,181000.0,60,0,0.18,Rented,0,Approved
+LN100130,57,Female,Yes,Graduate,Self-employed,524000.0,732.0,50000.0,36,0,0.1,Owned,1,Rejected
+LN100131,43,Female,Yes,Graduate,Daily Wage,481000.0,737.0,293000.0,60,1,0.25,Owned,0,Approved
+LN100132,59,Female,Yes,Graduate,Business,2405000.0,633.0,1483000.0,12,0,0.19,Owned,0,Approved
+LN100133,35,Male,Yes,Graduate,Salaried,575000.0,517.0,383000.0,60,3,0.4,Rented,1,Rejected
+LN100134,49,Female,No,Graduate,Self-employed,508000.0,691.0,72000.0,36,0,0.11,Rented,1,Approved
+LN100135,56,Male,Yes,Graduate,Salaried,626000.0,663.0,333000.0,36,4,0.44,Owned,2,Rejected
+LN100136,33,Male,No,Graduate,Business,352000.0,661.0,204000.0,60,1,0.24,Rented,0,Rejected
+LN100137,52,Male,No,Not Graduate,Business,1444000.0,752.0,475000.0,36,2,0.29,Rented,2,Rejected
+LN100138,27,Male,No,Graduate,Business,,699.0,50000.0,24,0,0.16,Owned,0,Approved
+LN100139,42,,Yes,Graduate,Salaried,428000.0,627.0,155000.0,60,3,0.34,Owned,3+,Rejected
+LN100140,48,Male,No,Graduate,Business,1004000.0,612.0,127000.0,48,0,0.15,Rented,1,Rejected
+LN100141,22,Male,Yes,Not Graduate,Salaried,614000.0,673.0,285000.0,48,1,0.22,Family,1,Rejected
+LN100142,26,Male,Yes,Graduate,Salaried,812000.0,631.0,291000.0,36,2,0.3,Owned,3+,Approved
+LN100143,48,Male,Yes,Graduate,Salaried,1394000.0,685.0,913000.0,12,0,0.23,Rented,0,Approved
+LN100144,48,Female,No,Not Graduate,Salaried,1042000.0,757.0,616000.0,36,1,0.23,Owned,0,Approved
+LN100145,40,Male,Yes,Graduate,Salaried,647000.0,600.0,543000.0,24,1,0.24,Rented,1,Rejected
+LN100146,50,Male,Yes,Graduate,Business,1893000.0,696.0,1336000.0,60,0,0.17,Rented,0,Rejected
+LN100147,31,Male,Yes,Graduate,Daily Wage,425000.0,749.0,184000.0,12,1,0.16,Owned,1,Approved
+LN100148,48,Male,No,Graduate,Salaried,568000.0,684.0,451000.0,36,0,0.26,Rented,0,Approved
+LN100149,45,Female,No,Not Graduate,Salaried,590000.0,737.0,378000.0,12,1,0.26,Family,2,Rejected
+LN100150,59,Male,No,Graduate,Salaried,567000.0,671.0,203000.0,24,1,0.22,Family,1,Approved
+LN100151,53,Female,Yes,Graduate,Salaried,333000.0,701.0,76000.0,60,1,,Owned,0,Approved
+LN100152,21,Male,Yes,Not Graduate,Salaried,251000.0,719.0,66000.0,48,0,0.17,Owned,2,Approved
+LN100153,47,Male,No,Graduate,Daily Wage,755000.0,653.0,264000.0,12,3,0.35,Family,0,Rejected
+LN100154,33,Female,Yes,Graduate,Salaried,423000.0,819.0,262000.0,12,2,0.32,,0,Rejected
+LN100155,23,Male,Yes,Graduate,Salaried,1713000.0,728.0,1090000.0,12,1,0.27,Rented,1,Approved
+LN100156,59,Male,No,Graduate,Salaried,577000.0,775.0,357000.0,60,1,0.27,Owned,2,Approved
+LN100157,26,Female,No,Graduate,Business,522000.0,760.0,159000.0,48,1,0.26,Owned,1,Approved
+LN100158,28,Male,No,Graduate,Business,1095000.0,711.0,650000.0,12,2,0.25,Owned,2,Rejected
+LN100159,47,Female,No,Graduate,Daily Wage,749000.0,780.0,503000.0,36,2,0.31,Family,0,Approved
+LN100160,29,Male,No,Graduate,Business,545000.0,702.0,258000.0,60,0,0.22,Family,3+,Rejected
+LN100161,57,Female,Yes,Not Graduate,Salaried,422000.0,643.0,267000.0,60,2,0.36,Owned,2,Rejected
+LN100162,53,Female,Yes,Graduate,Salaried,3000000.0,691.0,914000.0,60,0,0.17,,0,Rejected
+LN100163,44,Male,No,Graduate,Business,732000.0,625.0,350000.0,36,0,0.18,Owned,2,Rejected
+LN100164,35,Female,Yes,Graduate,Salaried,1089000.0,553.0,326000.0,24,2,0.33,Owned,1,Rejected
+LN100165,52,Male,No,Graduate,Self-employed,342000.0,635.0,229000.0,36,1,0.28,Rented,0,Approved
+LN100166,52,Female,Yes,Graduate,Salaried,,695.0,264000.0,60,1,0.26,Rented,0,Approved
+LN100167,44,Male,Yes,Graduate,Salaried,1917000.0,759.0,546000.0,60,1,0.25,Owned,0,Rejected
+LN100168,32,Male,No,,Self-employed,1294000.0,634.0,383000.0,36,3,0.33,Owned,2,Rejected
+LN100169,59,Male,No,Not Graduate,Self-employed,772000.0,756.0,302000.0,36,1,0.26,Family,1,Approved
+LN100170,22,Male,No,Graduate,Business,486000.0,611.0,271000.0,36,1,0.29,Family,0,Rejected
+LN100171,23,Male,Yes,Not Graduate,Salaried,528000.0,630.0,240000.0,36,0,0.17,Rented,0,Approved
+LN100172,57,Female,No,Graduate,Self-employed,414000.0,784.0,263000.0,36,0,0.28,Owned,,Rejected
+LN100173,37,Female,Yes,Not Graduate,Salaried,318000.0,693.0,86000.0,48,0,0.06,Rented,1,Approved
+LN100174,22,Female,Yes,Graduate,Salaried,997000.0,679.0,470000.0,12,1,0.17,Owned,2,Approved
+LN100175,22,Male,Yes,Not Graduate,Salaried,807000.0,705.0,447000.0,36,2,0.29,Family,3+,Approved
+LN100176,48,Male,Yes,Graduate,Salaried,899000.0,612.0,545000.0,60,0,0.19,Owned,1,Rejected
+LN100177,43,Male,Yes,Graduate,Salaried,499000.0,668.0,215000.0,12,1,0.25,Owned,1,Rejected
+LN100178,57,Male,No,Graduate,Salaried,691000.0,690.0,378000.0,24,0,0.17,Rented,1,Rejected
+LN100179,52,Male,No,Graduate,Salaried,473000.0,770.0,278000.0,36,0,0.21,Family,2,Approved
+LN100180,53,Male,No,Graduate,Salaried,402000.0,581.0,392000.0,60,3,0.43,Rented,0,Rejected
+LN100181,21,Female,Yes,Graduate,Salaried,1501000.0,,1011000.0,60,1,0.35,Owned,1,Rejected
+LN100182,39,Male,No,Graduate,Salaried,641000.0,682.0,376000.0,12,0,0.18,Rented,2,Approved
+LN100183,22,Male,No,Graduate,Salaried,793000.0,618.0,519000.0,36,2,0.27,Family,0,Approved
+LN100184,46,Male,No,Graduate,Self-employed,950000.0,606.0,438000.0,36,2,0.33,Owned,0,Approved
+LN100185,52,Male,Yes,Graduate,Salaried,646000.0,708.0,343000.0,48,1,0.23,Rented,2,Rejected
+LN100186,26,Male,Yes,Not Graduate,Salaried,685000.0,602.0,179000.0,60,0,0.14,Family,0,Rejected
+LN100187,52,Female,Yes,Graduate,Salaried,330000.0,654.0,115000.0,60,1,0.2,Owned,0,Approved
+LN100188,24,Male,Yes,Not Graduate,Self-employed,367000.0,674.0,144000.0,36,0,0.2,Owned,1,Approved
+LN100189,31,Male,Yes,Graduate,Business,356000.0,764.0,284000.0,60,2,0.31,Owned,1,Rejected
+LN100190,37,Male,No,Not Graduate,Business,837000.0,756.0,274000.0,60,1,0.12,Owned,0,Rejected
+LN100191,58,Female,Yes,Not Graduate,Business,624000.0,648.0,279000.0,60,1,0.28,Rented,3+,Approved
+LN100192,44,Female,Yes,Graduate,Self-employed,367000.0,676.0,246000.0,48,0,0.23,Rented,,Rejected
+LN100193,25,Female,Yes,Graduate,Business,825000.0,586.0,134000.0,36,0,0.17,Rented,2,Rejected
+LN100194,54,Female,Yes,Graduate,Self-employed,809000.0,557.0,264000.0,36,0,0.2,Owned,0,Approved
+LN100195,26,Male,Yes,Not Graduate,Salaried,409000.0,610.0,183000.0,12,4,0.37,Rented,1,Approved
+LN100196,42,Male,Yes,Graduate,Salaried,591000.0,763.0,385000.0,36,0,0.22,Rented,0,Approved
+LN100197,31,Female,Yes,Graduate,Salaried,811000.0,741.0,190000.0,60,0,0.16,Family,0,Approved
+LN100198,36,Female,No,Graduate,Daily Wage,374000.0,715.0,177000.0,48,4,0.4,Owned,0,Rejected
+LN100199,53,Male,No,Not Graduate,Self-employed,819000.0,595.0,631000.0,60,1,0.28,Rented,1,Rejected
+LN100200,29,Female,Yes,Not Graduate,Business,708000.0,644.0,177000.0,12,2,0.25,Family,1,Approved
+LN100201,26,Female,Yes,Not Graduate,Salaried,346000.0,634.0,196000.0,24,0,0.24,,0,Approved
+LN100202,36,Male,No,Graduate,Salaried,677000.0,679.0,551000.0,60,1,0.29,Owned,3+,Rejected
+LN100203,49,Female,Yes,Graduate,Salaried,734000.0,675.0,488000.0,36,1,0.3,Owned,0,Rejected
+LN100204,23,Female,Yes,Graduate,Salaried,425000.0,625.0,153000.0,24,2,0.29,Family,1,Approved
+LN100205,40,Male,No,Graduate,Business,444000.0,713.0,335000.0,60,0,0.2,Rented,0,Approved
+LN100206,56,Female,Yes,Graduate,Self-employed,345000.0,705.0,186000.0,60,1,0.26,Family,1,Approved
+LN100207,39,Male,Yes,Graduate,Salaried,469000.0,643.0,195000.0,36,2,0.23,Family,2,Approved
+LN100208,46,Male,Yes,Graduate,Business,596000.0,710.0,337000.0,60,1,,Owned,1,Approved
+LN100209,23,Male,Yes,Graduate,Salaried,445000.0,763.0,171000.0,60,1,0.26,Rented,0,Approved
+LN100210,39,Male,Yes,Not Graduate,Daily Wage,265000.0,783.0,256000.0,60,0,0.31,Owned,0,Rejected
+LN100211,40,Female,No,Graduate,Salaried,411000.0,722.0,170000.0,60,0,0.14,Owned,2,Approved
+LN100212,52,Male,Yes,Not Graduate,Salaried,477000.0,720.0,50000.0,24,2,0.21,Rented,0,Approved
+LN100213,27,Male,Yes,Graduate,Salaried,940000.0,,426000.0,48,2,0.3,Rented,1,Rejected
+LN100214,53,Male,No,Graduate,Salaried,832000.0,757.0,401000.0,12,4,0.39,Owned,0,Rejected
+LN100215,60,Male,Yes,Graduate,Salaried,950000.0,620.0,319000.0,12,2,0.2,Rented,0,Rejected
+LN100216,59,Female,Yes,Graduate,Self-employed,400000.0,749.0,273000.0,60,1,0.26,Owned,0,Approved
+LN100217,38,Male,No,Graduate,Business,649000.0,671.0,468000.0,48,2,0.35,Rented,3+,Rejected
+LN100218,60,Male,Yes,Graduate,Business,180000.0,,50000.0,60,0,0.19,Rented,2,Approved
+LN100219,21,Male,No,Graduate,Salaried,760000.0,728.0,487000.0,60,1,0.33,Owned,1,Approved
+LN100220,31,Female,No,Graduate,Self-employed,840000.0,686.0,330000.0,60,0,0.18,Family,0,Approved
+LN100221,48,Female,No,Graduate,Salaried,494000.0,675.0,88000.0,60,0,0.15,Rented,,Rejected
+LN100222,45,Male,Yes,Not Graduate,Salaried,706000.0,,188000.0,36,2,0.29,,1,Approved
+LN100223,43,,No,Not Graduate,Self-employed,261000.0,721.0,191000.0,36,1,0.21,Rented,1,Rejected
+LN100224,51,Male,Yes,Not Graduate,Self-employed,386000.0,664.0,97000.0,24,1,0.16,Owned,0,Approved
+LN100225,50,Male,No,Graduate,Salaried,914000.0,696.0,307000.0,36,1,0.22,Owned,3+,Approved
+LN100226,55,Male,Yes,Not Graduate,Salaried,795000.0,748.0,688000.0,36,1,0.37,Rented,1,Rejected
+LN100227,27,Male,Yes,Not Graduate,Daily Wage,478000.0,601.0,152000.0,48,0,0.18,Family,3+,Approved
+LN100228,36,Male,Yes,Graduate,Salaried,937000.0,737.0,663000.0,60,2,0.35,Family,0,Rejected
+LN100229,46,Male,No,Not Graduate,Salaried,647000.0,724.0,233000.0,60,1,0.21,Owned,0,Approved
+LN100230,22,Female,No,Graduate,Self-employed,455000.0,767.0,381000.0,60,2,0.38,Rented,0,Rejected
+LN100231,21,Male,,Not Graduate,Salaried,543000.0,643.0,283000.0,48,0,0.17,Owned,2,Rejected
+LN100232,32,Male,Yes,Not Graduate,Salaried,467000.0,690.0,247000.0,36,0,0.17,Owned,0,Approved
+LN100233,25,Male,No,Graduate,Salaried,313000.0,703.0,101000.0,12,1,0.19,Rented,2,Approved
+LN100234,57,Male,Yes,Graduate,Business,1198000.0,738.0,894000.0,36,2,0.39,Rented,2,Rejected
+LN100235,52,Female,Yes,Not Graduate,,439000.0,718.0,195000.0,60,1,0.21,Owned,2,Approved
+LN100236,29,,No,Graduate,Self-employed,380000.0,609.0,140000.0,24,2,0.26,Rented,2,Approved
+LN100237,55,Male,Yes,Graduate,Daily Wage,259000.0,709.0,223000.0,60,4,0.49,Rented,2,Rejected
+LN100238,39,Female,No,Not Graduate,Business,180000.0,820.0,69000.0,48,4,0.36,Owned,2,Rejected
+LN100239,36,Male,Yes,Graduate,Salaried,882000.0,730.0,562000.0,24,2,0.33,Rented,1,Rejected
+LN100240,23,Male,Yes,,Salaried,928000.0,796.0,522000.0,36,2,0.32,Owned,2,Rejected
+LN100241,40,Female,Yes,Graduate,Self-employed,1156000.0,758.0,712000.0,36,0,0.19,Rented,3+,Rejected
+LN100242,44,Male,No,Graduate,Self-employed,553000.0,779.0,258000.0,36,2,0.28,Rented,0,Rejected
+LN100243,53,Male,Yes,Graduate,Self-employed,503000.0,710.0,200000.0,60,1,0.19,Rented,3+,Rejected
+LN100244,44,,Yes,Graduate,Self-employed,454000.0,724.0,148000.0,60,4,0.43,Family,0,Rejected
+LN100245,31,Male,Yes,,,477000.0,707.0,519000.0,48,0,0.3,Owned,1,Rejected
+LN100246,28,Male,No,Graduate,Salaried,1111000.0,690.0,650000.0,60,1,0.22,Rented,0,Rejected
+LN100247,56,Male,Yes,Not Graduate,Salaried,591000.0,738.0,444000.0,48,1,0.29,Rented,0,Approved
+LN100248,58,Female,Yes,Graduate,Salaried,739000.0,656.0,531000.0,60,1,0.29,Rented,2,Approved
+LN100249,60,Male,No,Graduate,Salaried,471000.0,813.0,85000.0,24,0,0.05,Family,3+,Approved
+LN100250,40,Male,Yes,Graduate,Self-employed,1241000.0,630.0,753000.0,60,1,0.31,Rented,2,Rejected
+LN100251,55,Male,Yes,Graduate,Self-employed,210000.0,743.0,269000.0,36,2,0.41,Rented,3+,Approved
+LN100252,45,Male,No,Graduate,Salaried,307000.0,780.0,148000.0,36,1,0.31,Owned,0,Approved
+LN100253,55,Male,Yes,Graduate,Salaried,739000.0,679.0,604000.0,24,0,0.27,Rented,0,Rejected
+LN100254,45,Male,No,Not Graduate,Self-employed,1571000.0,618.0,566000.0,48,2,0.24,Rented,1,Rejected
+LN100255,49,Male,Yes,Graduate,Salaried,530000.0,765.0,235000.0,24,0,0.17,Rented,2,Approved
+LN100256,38,Male,No,Graduate,Self-employed,378000.0,703.0,117000.0,24,0,0.19,Family,0,Rejected
+LN100257,38,Male,Yes,Graduate,Business,1040000.0,743.0,351000.0,60,2,0.26,Owned,3+,Rejected
+LN100258,22,Male,Yes,Graduate,Business,717000.0,683.0,214000.0,60,2,0.3,Owned,1,Approved
+LN100259,55,Male,No,Graduate,Self-employed,1220000.0,803.0,730000.0,60,1,0.25,Rented,3+,Rejected
+LN100260,36,Male,No,Graduate,Self-employed,295000.0,552.0,98000.0,60,1,0.21,Family,1,Rejected
+LN100261,56,Female,Yes,Graduate,Salaried,1168000.0,,810000.0,60,0,0.26,Family,1,Rejected
+LN100262,53,Male,Yes,Graduate,Salaried,256000.0,777.0,226000.0,48,1,0.34,,2,Rejected
+LN100263,24,Male,No,Graduate,Salaried,512000.0,697.0,195000.0,24,0,0.14,Owned,2,Rejected
+LN100264,53,Male,Yes,Graduate,Daily Wage,753000.0,710.0,431000.0,60,3,0.38,Rented,0,Approved
+LN100265,34,Female,No,Graduate,Salaried,665000.0,662.0,543000.0,60,2,0.36,Rented,3+,Approved
+LN100266,41,Female,No,Graduate,Salaried,1075000.0,691.0,731000.0,36,1,0.25,Family,2,Approved
+LN100267,40,Male,Yes,Graduate,Business,220000.0,581.0,206000.0,36,1,0.27,Rented,0,Rejected
+LN100268,28,Male,Yes,Graduate,Daily Wage,648000.0,643.0,288000.0,36,2,0.22,Owned,0,Rejected
+LN100269,27,Female,No,Graduate,Business,1161000.0,639.0,724000.0,60,1,0.26,Owned,1,Approved
+LN100270,23,Male,Yes,Graduate,Salaried,620000.0,733.0,457000.0,36,0,,Rented,1,Approved
+LN100271,37,Male,Yes,Graduate,Salaried,320000.0,653.0,154000.0,60,0,0.2,Family,2,Approved
+LN100272,53,Male,No,Graduate,Salaried,1044000.0,655.0,390000.0,60,1,0.25,Owned,0,Rejected
+LN100273,32,Male,Yes,Graduate,Salaried,420000.0,665.0,288000.0,48,3,0.37,Owned,2,Approved
+LN100274,42,Female,No,Graduate,Salaried,381000.0,641.0,123000.0,48,0,0.16,Family,1,Approved
+LN100275,42,Female,Yes,Graduate,Salaried,356000.0,707.0,299000.0,36,0,0.22,Owned,0,Rejected
+LN100276,50,Male,Yes,Not Graduate,Daily Wage,538000.0,715.0,425000.0,12,1,0.3,Rented,1,Approved
+LN100277,58,Male,Yes,Graduate,Salaried,664000.0,744.0,233000.0,24,2,0.31,Owned,0,Approved
+LN100278,58,Female,Yes,Not Graduate,Self-employed,299000.0,732.0,152000.0,60,0,0.2,Rented,0,Approved
+LN100279,28,Female,Yes,Graduate,Self-employed,334000.0,726.0,121000.0,36,0,0.21,Owned,1,Rejected
+LN100280,47,Male,Yes,Graduate,Salaried,410000.0,669.0,313000.0,24,1,0.33,Owned,3+,Approved
+LN100281,47,Female,No,Graduate,Self-employed,355000.0,664.0,213000.0,36,1,0.31,Rented,0,Rejected
+LN100282,54,Female,Yes,Graduate,Salaried,612000.0,633.0,417000.0,60,0,0.23,Owned,1,Rejected
+LN100283,41,Female,Yes,Graduate,Salaried,732000.0,632.0,402000.0,36,0,0.18,Rented,0,Approved
+LN100284,50,Male,Yes,Not Graduate,Business,679000.0,703.0,269000.0,60,1,0.25,Owned,0,Approved
+LN100285,53,Male,Yes,Graduate,Salaried,679000.0,643.0,331000.0,36,1,0.23,Rented,1,Approved
+LN100286,48,Female,Yes,Not Graduate,Daily Wage,1504000.0,785.0,314000.0,48,4,0.38,Family,2,Rejected
+LN100287,53,Male,Yes,Graduate,Salaried,757000.0,688.0,312000.0,12,2,0.26,Owned,0,Approved
+LN100288,25,Female,Yes,Not Graduate,Self-employed,923000.0,,188000.0,48,0,0.11,Owned,3+,Approved
+LN100289,39,Male,Yes,Graduate,Salaried,478000.0,727.0,238000.0,48,1,0.29,Family,0,Rejected
+LN100290,24,Male,Yes,Not Graduate,Salaried,,639.0,,36,1,0.26,Rented,3+,Rejected
+LN100291,55,Male,No,Graduate,Salaried,465000.0,686.0,113000.0,48,0,0.18,Owned,3+,Rejected
+LN100292,37,Male,Yes,Graduate,Self-employed,752000.0,581.0,443000.0,48,3,0.39,Rented,1,Rejected
+LN100293,48,Female,Yes,Graduate,Business,,702.0,186000.0,60,2,0.33,Owned,0,Rejected
+LN100294,50,Female,No,Not Graduate,Business,657000.0,645.0,99000.0,60,0,0.06,Owned,1,Approved
+LN100295,49,Female,Yes,Graduate,Self-employed,351000.0,618.0,50000.0,36,0,0.18,Family,2,Rejected
+LN100296,26,Male,No,Not Graduate,Business,1004000.0,789.0,473000.0,48,0,0.15,Rented,2,Approved
+LN100297,55,Male,Yes,Graduate,Self-employed,971000.0,757.0,605000.0,60,0,0.25,Rented,1,Approved
+LN100298,57,Male,Yes,Not Graduate,Business,464000.0,755.0,287000.0,60,1,0.24,Owned,1,Rejected
+LN100299,44,Male,Yes,Not Graduate,Self-employed,1852000.0,741.0,513000.0,60,1,0.18,Owned,2,Approved
+LN100300,49,Male,Yes,Not Graduate,Self-employed,513000.0,610.0,246000.0,36,4,0.43,Family,3+,Approved
+LN100301,51,Male,Yes,Graduate,Business,247000.0,664.0,132000.0,60,0,0.22,Owned,2,Rejected
+LN100302,55,Male,Yes,Graduate,Salaried,391000.0,668.0,238000.0,48,1,0.22,Rented,3+,Approved
+LN100303,53,Male,No,Not Graduate,Business,338000.0,579.0,257000.0,24,2,,Owned,1,Rejected
+LN100304,41,Female,Yes,Graduate,Self-employed,739000.0,654.0,256000.0,60,1,0.21,Rented,2,Approved
+LN100305,52,Female,Yes,Graduate,Salaried,304000.0,655.0,184000.0,60,0,0.21,Owned,2,Rejected
+LN100306,43,Male,Yes,Graduate,Salaried,446000.0,698.0,212000.0,24,0,0.18,Owned,2,Approved
+LN100307,53,Male,Yes,Graduate,Salaried,713000.0,850.0,417000.0,12,0,0.17,Family,0,Rejected
+LN100308,23,Female,Yes,Graduate,Self-employed,648000.0,689.0,211000.0,60,4,0.4,Rented,1,Approved
+LN100309,38,Male,No,Graduate,Business,596000.0,698.0,375000.0,12,3,0.39,Owned,1,Approved
+LN100310,45,Female,No,Not Graduate,Salaried,643000.0,674.0,240000.0,24,3,0.3,Rented,0,Approved
+LN100311,51,Female,Yes,Graduate,Business,489000.0,738.0,279000.0,36,2,0.35,Owned,1,Rejected
+LN100312,23,Male,No,Not Graduate,Business,248000.0,620.0,269000.0,24,1,0.35,Rented,2,Approved
+LN100313,60,Male,No,Graduate,Salaried,482000.0,813.0,109000.0,60,3,0.31,Rented,1,Approved
+LN100314,44,,No,Graduate,Business,776000.0,682.0,225000.0,36,4,0.43,Owned,0,Rejected
+LN100315,52,Male,Yes,Graduate,Daily Wage,556000.0,664.0,289000.0,48,1,0.19,Rented,2,Approved
+LN100316,42,Male,No,Graduate,Business,744000.0,753.0,266000.0,60,0,0.11,Rented,3+,Rejected
+LN100317,43,Female,Yes,Not Graduate,Business,435000.0,632.0,328000.0,48,1,0.24,Family,1,Rejected
+LN100318,22,Male,No,Graduate,Daily Wage,1037000.0,737.0,517000.0,36,0,0.2,Rented,0,Approved
+LN100319,47,Male,Yes,Graduate,Self-employed,180000.0,781.0,138000.0,60,0,0.23,Owned,3+,Rejected
+LN100320,22,Female,Yes,Graduate,Salaried,649000.0,674.0,119000.0,36,3,0.29,Owned,3+,Rejected
+LN100321,46,Female,No,Graduate,Business,1260000.0,823.0,433000.0,36,3,0.29,Rented,0,Approved
+LN100322,37,Male,Yes,Graduate,Self-employed,1367000.0,732.0,777000.0,60,0,,Owned,0,Rejected
+LN100323,60,Male,No,Graduate,Self-employed,528000.0,733.0,244000.0,60,1,0.31,Rented,,Approved
+LN100324,53,Male,No,Graduate,Salaried,289000.0,779.0,196000.0,60,2,0.36,Rented,2,Rejected
+LN100325,29,Female,No,Not Graduate,Business,1272000.0,796.0,785000.0,60,1,0.21,Owned,0,Approved
+LN100326,59,Male,Yes,Graduate,Salaried,583000.0,707.0,228000.0,60,1,0.21,Owned,1,Approved
+LN100327,49,Male,No,Graduate,Daily Wage,550000.0,742.0,406000.0,60,2,0.37,Rented,1,Rejected
+LN100328,46,Female,Yes,Graduate,Salaried,367000.0,781.0,56000.0,60,3,0.29,Owned,3+,Rejected
+LN100329,55,Male,Yes,Not Graduate,Salaried,302000.0,614.0,191000.0,12,3,0.41,Family,1,Approved
+LN100330,45,Female,No,Graduate,Salaried,818000.0,578.0,565000.0,36,1,0.32,Rented,1,Rejected
+LN100331,44,Female,Yes,Graduate,Salaried,867000.0,686.0,580000.0,60,0,0.29,Family,3+,Rejected
+LN100332,33,Male,Yes,Graduate,Business,670000.0,576.0,289000.0,48,3,0.32,Family,0,Rejected
+LN100333,27,Female,No,Not Graduate,Daily Wage,394000.0,670.0,168000.0,24,0,0.18,Family,0,Rejected
+LN100334,56,Male,Yes,Graduate,Business,334000.0,710.0,50000.0,36,2,0.22,Owned,2,Approved
+LN100335,40,Female,Yes,Not Graduate,Salaried,273000.0,672.0,93000.0,36,0,0.09,Family,0,Rejected
+LN100336,21,Male,No,Graduate,Salaried,441000.0,681.0,148000.0,48,1,0.24,Owned,2,Rejected
+LN100337,28,Male,Yes,Graduate,Business,345000.0,625.0,263000.0,60,1,0.31,Owned,0,Approved
+LN100338,36,Male,No,Not Graduate,Daily Wage,234000.0,741.0,63000.0,60,0,0.13,Rented,0,Approved
+LN100339,34,Female,No,Graduate,,858000.0,621.0,608000.0,60,3,0.34,Owned,3+,Rejected
+LN100340,32,Female,No,Not Graduate,Self-employed,290000.0,553.0,158000.0,60,0,0.18,Owned,1,Rejected
+LN100341,43,Male,No,Not Graduate,Salaried,1031000.0,,529000.0,36,3,0.38,Owned,2,Rejected
+LN100342,35,Female,Yes,Not Graduate,Business,745000.0,749.0,275000.0,36,3,0.38,Owned,0,Rejected
+LN100343,48,Male,Yes,Graduate,Self-employed,705000.0,695.0,247000.0,36,0,0.14,Rented,0,Approved
+LN100344,54,Male,No,Not Graduate,Salaried,1499000.0,614.0,409000.0,48,2,0.3,Owned,2,Rejected
+LN100345,22,Male,No,Graduate,Salaried,296000.0,697.0,74000.0,24,0,0.17,Rented,1,Approved
+LN100346,52,Male,Yes,Not Graduate,Business,970000.0,718.0,573000.0,48,2,0.33,Family,1,Approved
+LN100347,43,Male,Yes,Graduate,Salaried,509000.0,696.0,258000.0,60,1,0.2,Rented,0,Rejected
+LN100348,42,Female,Yes,Not Graduate,Salaried,2468000.0,673.0,1500000.0,36,0,0.17,Rented,1,Approved
+LN100349,45,Male,Yes,Graduate,Self-employed,487000.0,722.0,71000.0,60,1,0.15,Family,2,Approved
+LN100350,42,Female,No,Graduate,Salaried,445000.0,577.0,276000.0,48,2,0.31,Owned,,Rejected
+LN100351,42,Male,Yes,Graduate,Salaried,758000.0,632.0,506000.0,24,3,0.45,Rented,2,Rejected
+LN100352,26,Female,No,Not Graduate,Business,535000.0,605.0,167000.0,36,0,0.13,Family,2,Rejected
+LN100353,35,Female,No,,Business,395000.0,778.0,115000.0,60,1,0.23,Family,1,Rejected
+LN100354,57,Male,Yes,Graduate,Business,352000.0,736.0,184000.0,36,0,0.18,Rented,1,Rejected
+LN100355,53,Female,Yes,Not Graduate,Business,1338000.0,702.0,843000.0,12,2,0.34,Owned,2,Rejected
+LN100356,28,Male,Yes,Graduate,Self-employed,316000.0,596.0,115000.0,48,0,0.16,Family,0,Approved
+LN100357,25,Female,Yes,Graduate,Business,678000.0,738.0,473000.0,60,2,0.34,Owned,0,Rejected
+LN100358,59,Male,No,Graduate,Salaried,1073000.0,780.0,388000.0,36,0,0.18,Owned,3+,Approved
+LN100359,24,Female,No,Graduate,Self-employed,1101000.0,727.0,136000.0,60,1,0.17,Owned,0,Rejected
+LN100360,26,Male,No,Graduate,Daily Wage,431000.0,688.0,280000.0,60,2,0.34,Rented,0,Rejected
+LN100361,52,Male,Yes,Graduate,Salaried,536000.0,731.0,324000.0,24,2,0.36,Rented,,Approved
+LN100362,50,Female,Yes,Graduate,Salaried,481000.0,708.0,288000.0,60,2,0.29,Rented,2,Rejected
+LN100363,55,Male,No,Graduate,Self-employed,258000.0,750.0,71000.0,36,1,0.25,Rented,1,Approved
+LN100364,60,Male,Yes,Graduate,Salaried,806000.0,749.0,50000.0,36,3,0.27,Owned,1,Approved
+LN100365,36,Male,Yes,Graduate,Salaried,613000.0,676.0,329000.0,60,1,0.24,Rented,3+,Approved
+LN100366,33,Male,Yes,Graduate,Business,1325000.0,647.0,184000.0,60,3,0.31,Rented,2,Approved
+LN100367,50,Male,No,Not Graduate,Daily Wage,,664.0,50000.0,24,1,0.17,Rented,2,Approved
+LN100368,39,Male,Yes,Graduate,Salaried,1092000.0,725.0,444000.0,60,1,0.24,Family,0,Approved
+LN100369,37,Male,No,Graduate,Salaried,1135000.0,668.0,373000.0,60,0,0.17,Family,0,Rejected
+LN100370,39,Male,No,Not Graduate,Salaried,616000.0,641.0,125000.0,60,1,0.12,Rented,1,Approved
+LN100371,48,Female,Yes,Not Graduate,,182000.0,690.0,180000.0,36,0,0.29,Owned,0,Rejected
+LN100372,46,Male,Yes,Not Graduate,Salaried,453000.0,762.0,113000.0,60,2,0.2,Rented,0,Rejected
+LN100373,57,Male,Yes,Not Graduate,Salaried,1602000.0,699.0,401000.0,36,2,0.21,Family,0,Approved
+LN100374,46,Male,No,Not Graduate,Salaried,706000.0,672.0,420000.0,12,4,0.44,Owned,1,Approved
+LN100375,43,Male,Yes,Graduate,Salaried,879000.0,711.0,291000.0,60,0,0.18,Family,2,Approved
+LN100376,29,Female,Yes,Not Graduate,Self-employed,571000.0,695.0,394000.0,60,0,0.27,Owned,2,Approved
+LN100377,32,Male,Yes,Graduate,Business,531000.0,564.0,50000.0,48,3,0.24,Rented,0,Rejected
+LN100378,21,Male,No,Not Graduate,Self-employed,215000.0,735.0,50000.0,36,1,0.17,Rented,1,Rejected
+LN100379,21,Female,Yes,Graduate,Business,929000.0,716.0,319000.0,12,1,0.23,Rented,0,Rejected
+LN100380,54,Female,No,Graduate,Salaried,1087000.0,691.0,328000.0,48,2,0.31,Family,1,Rejected
+LN100381,52,Male,No,Graduate,Business,356000.0,759.0,88000.0,36,1,0.21,,1,Approved
+LN100382,45,Female,Yes,Not Graduate,Self-employed,544000.0,769.0,317000.0,48,0,0.17,Owned,1,Approved
+LN100383,60,Female,No,Graduate,Salaried,505000.0,742.0,103000.0,36,3,0.35,Rented,3+,Approved
+LN100384,21,Male,Yes,Not Graduate,Self-employed,756000.0,635.0,328000.0,60,0,0.17,Owned,2,Approved
+LN100385,36,Female,No,Not Graduate,Salaried,445000.0,637.0,266000.0,48,3,0.36,Rented,2,Approved
+LN100386,59,Female,No,Graduate,Business,1001000.0,763.0,360000.0,60,0,0.11,Owned,3+,Rejected
+LN100387,25,Male,No,Not Graduate,Salaried,624000.0,568.0,405000.0,60,1,0.3,Owned,2,Approved
+LN100388,42,Male,Yes,Not Graduate,Daily Wage,180000.0,680.0,50000.0,48,0,0.18,Rented,2,Approved
+LN100389,49,Male,Yes,Graduate,Salaried,765000.0,719.0,475000.0,12,2,0.3,Rented,1,Approved
+LN100390,23,Female,Yes,Graduate,Business,1038000.0,576.0,427000.0,12,0,0.24,Owned,1,Approved
+LN100391,32,Female,Yes,Graduate,Self-employed,318000.0,,115000.0,60,2,0.25,Owned,2,Rejected
+LN100392,46,Male,Yes,Graduate,Business,751000.0,752.0,568000.0,36,1,0.31,Owned,0,Rejected
+LN100393,36,Male,Yes,Graduate,Salaried,1642000.0,593.0,777000.0,48,0,0.19,Rented,2,Approved
+LN100394,57,Male,Yes,Not Graduate,Self-employed,638000.0,798.0,325000.0,24,2,0.23,Owned,3+,Approved
+LN100395,42,Male,Yes,Graduate,Business,1124000.0,624.0,564000.0,36,1,0.26,Rented,2,Rejected
+LN100396,49,Male,No,Not Graduate,Salaried,470000.0,727.0,225000.0,36,0,0.2,Rented,0,Rejected
+LN100397,34,Male,Yes,Graduate,Salaried,594000.0,685.0,204000.0,60,0,0.1,Rented,1,Rejected
+LN100398,48,Female,Yes,Graduate,Self-employed,536000.0,695.0,344000.0,48,1,0.32,Owned,2,Approved
+LN100399,25,Male,Yes,Not Graduate,Self-employed,485000.0,607.0,171000.0,60,0,0.18,Rented,3+,Approved
+LN100400,50,Female,Yes,Not Graduate,Salaried,553000.0,772.0,412000.0,60,0,0.28,Family,1,Approved
+LN100401,25,Male,No,Graduate,Salaried,245000.0,711.0,151000.0,24,0,0.15,Owned,2,Approved
+LN100402,32,Male,Yes,Graduate,Salaried,500000.0,795.0,238000.0,36,1,0.23,Owned,2,Rejected
+LN100403,36,Male,No,Graduate,Business,1252000.0,608.0,687000.0,60,1,0.3,Rented,0,Approved
+LN100404,46,Male,No,Graduate,Self-employed,353000.0,678.0,50000.0,60,0,0.07,Owned,2,Approved
+LN100405,46,Female,,Graduate,Business,334000.0,704.0,166000.0,48,4,0.4,,0,Rejected
+LN100406,41,Male,No,Graduate,Daily Wage,621000.0,694.0,500000.0,60,3,0.42,Family,1,Rejected
+LN100407,59,Female,No,Graduate,Salaried,638000.0,733.0,154000.0,12,0,0.08,Rented,1,Approved
+LN100408,56,Male,No,,Salaried,738000.0,677.0,316000.0,36,0,0.13,Rented,2,Approved
+LN100409,53,Female,No,Graduate,Salaried,564000.0,828.0,374000.0,48,3,0.43,Rented,2,Rejected
+LN100410,50,Male,Yes,Graduate,Salaried,624000.0,693.0,487000.0,36,1,0.3,Owned,1,Approved
+LN100411,57,Female,No,Graduate,Daily Wage,495000.0,503.0,269000.0,24,0,0.24,Owned,3+,Rejected
+LN100412,43,Female,Yes,Not Graduate,Self-employed,297000.0,695.0,118000.0,36,1,0.23,Family,2,Approved
+LN100413,30,Male,No,Not Graduate,Salaried,577000.0,772.0,182000.0,12,2,0.35,Family,2,Rejected
+LN100414,25,Male,Yes,Graduate,Salaried,894000.0,630.0,699000.0,48,0,0.26,Rented,1,Rejected
+LN100415,56,Female,Yes,Not Graduate,Self-employed,796000.0,626.0,288000.0,60,2,0.32,Family,0,Rejected
+LN100416,54,Female,Yes,,Self-employed,230000.0,635.0,50000.0,60,2,0.24,Owned,1,Rejected
+LN100417,51,Male,Yes,Graduate,Salaried,689000.0,,115000.0,60,1,0.19,Owned,3+,Rejected
+LN100418,30,Female,Yes,Graduate,Daily Wage,367000.0,,50000.0,36,2,0.26,Rented,0,Rejected
+LN100419,39,Female,Yes,Graduate,Self-employed,1290000.0,749.0,690000.0,48,0,0.22,Owned,3+,Approved
+LN100420,52,Female,Yes,Not Graduate,Salaried,718000.0,789.0,493000.0,24,1,0.28,Rented,2,Rejected
+LN100421,21,Female,Yes,Not Graduate,Business,982000.0,532.0,719000.0,36,1,0.29,Family,2,Approved
+LN100422,25,Female,No,Graduate,Salaried,607000.0,665.0,337000.0,24,1,0.27,Family,2,Rejected
+LN100423,24,Male,Yes,Graduate,Daily Wage,579000.0,710.0,238000.0,60,0,0.19,Rented,1,Rejected
+LN100424,36,Male,Yes,Graduate,Daily Wage,1366000.0,703.0,865000.0,60,1,0.23,Owned,2,Approved
+LN100425,44,Male,No,Graduate,Business,1024000.0,813.0,681000.0,48,0,0.23,Owned,1,Approved
+LN100426,36,Female,Yes,Graduate,Business,640000.0,559.0,405000.0,60,0,0.23,Owned,2,Approved
+LN100427,22,Female,Yes,Graduate,Salaried,538000.0,522.0,144000.0,24,0,0.11,Rented,2,Approved
+LN100428,48,Male,No,Graduate,Daily Wage,,824.0,75000.0,48,2,0.3,Rented,2,Approved
+LN100429,52,Female,No,Graduate,Self-employed,717000.0,739.0,517000.0,60,0,0.24,Family,2,Approved
+LN100430,47,Female,Yes,Graduate,Business,560000.0,653.0,50000.0,36,1,0.25,Family,0,Approved
+LN100431,40,Male,Yes,Graduate,Daily Wage,814000.0,701.0,603000.0,36,0,0.23,Owned,0,Approved
+LN100432,44,Male,No,Not Graduate,Daily Wage,962000.0,706.0,367000.0,60,0,0.21,Owned,2,Approved
+LN100433,32,Male,No,Graduate,Business,1182000.0,651.0,630000.0,60,0,0.21,Rented,0,Approved
+LN100434,55,Male,Yes,Not Graduate,Salaried,722000.0,699.0,373000.0,60,0,0.26,,1,Approved
+LN100435,53,Male,No,Graduate,Daily Wage,337000.0,713.0,311000.0,60,1,,Rented,1,Rejected
+LN100436,53,Male,Yes,Not Graduate,Self-employed,184000.0,821.0,127000.0,60,1,0.26,Rented,0,Approved
+LN100437,57,Male,,Not Graduate,,381000.0,753.0,303000.0,24,4,0.43,Owned,0,Rejected
+LN100438,32,,Yes,Graduate,Self-employed,1249000.0,803.0,754000.0,24,4,0.43,Rented,2,Rejected
+LN100439,23,Male,No,Graduate,Salaried,1636000.0,603.0,713000.0,36,1,0.19,Rented,1,Approved
+LN100440,21,Male,Yes,Not Graduate,Salaried,526000.0,667.0,291000.0,24,2,0.26,Family,1,Rejected
+LN100441,53,Female,No,Graduate,Self-employed,269000.0,706.0,68000.0,48,0,0.07,Owned,3+,Approved
+LN100442,60,Male,Yes,Graduate,Business,420000.0,565.0,221000.0,48,1,0.17,Family,0,Rejected
+LN100443,30,Female,Yes,Graduate,Salaried,1122000.0,767.0,458000.0,48,2,0.31,Rented,0,Rejected
+LN100444,49,Female,Yes,Graduate,Self-employed,433000.0,732.0,225000.0,36,0,0.18,Rented,2,Approved
+LN100445,33,Male,No,Graduate,Salaried,830000.0,666.0,357000.0,60,0,0.13,Owned,2,Approved
+LN100446,32,Male,Yes,Not Graduate,Business,658000.0,678.0,399000.0,12,0,0.19,Rented,1,Rejected
+LN100447,51,Male,Yes,Graduate,Salaried,887000.0,772.0,337000.0,36,1,0.2,Rented,3+,Approved
+LN100448,22,Male,No,Graduate,Salaried,1631000.0,638.0,536000.0,60,1,0.18,Rented,3+,Approved
+LN100449,55,Male,Yes,Not Graduate,Salaried,830000.0,774.0,530000.0,60,1,0.33,Rented,0,Approved
+LN100450,43,Male,No,Graduate,Salaried,650000.0,674.0,446000.0,36,1,0.33,Rented,0,Rejected
+LN100451,37,Male,Yes,Not Graduate,Self-employed,1733000.0,739.0,1213000.0,12,1,0.34,,2,Approved
+LN100452,46,Male,No,Graduate,Salaried,727000.0,696.0,177000.0,48,2,0.26,Owned,0,Rejected
+LN100453,28,Male,Yes,Graduate,Salaried,388000.0,835.0,67000.0,12,0,0.14,Rented,0,Approved
+LN100454,49,Male,No,Not Graduate,Daily Wage,876000.0,632.0,644000.0,24,2,0.32,Owned,2,Rejected
+LN100455,46,Male,Yes,Graduate,Business,767000.0,653.0,481000.0,60,2,0.29,Family,1,Approved
+LN100456,30,Male,Yes,Not Graduate,Salaried,507000.0,592.0,118000.0,36,2,0.25,Family,1,Approved
+LN100457,46,Male,Yes,Not Graduate,Daily Wage,451000.0,619.0,159000.0,36,2,0.3,Owned,,Approved
+LN100458,54,Female,Yes,Not Graduate,Salaried,509000.0,736.0,345000.0,36,1,0.32,Rented,2,Approved
+LN100459,27,Male,Yes,Graduate,Self-employed,448000.0,794.0,,60,0,0.14,Rented,1,Rejected
+LN100460,24,Male,No,Not Graduate,Self-employed,518000.0,744.0,187000.0,60,1,0.18,Owned,0,Approved
+LN100461,31,Female,Yes,Graduate,Salaried,377000.0,690.0,177000.0,36,3,0.38,Rented,1,Rejected
+LN100462,49,Male,No,Graduate,Salaried,742000.0,632.0,259000.0,36,1,0.15,Owned,1,Approved
+LN100463,56,Female,No,Not Graduate,Salaried,712000.0,748.0,561000.0,36,0,0.24,Family,3+,Rejected
+LN100464,45,Female,No,Graduate,Salaried,725000.0,628.0,266000.0,36,0,0.17,Family,3+,Approved
+LN100465,41,Male,Yes,Graduate,Business,580000.0,602.0,281000.0,48,4,0.39,Rented,0,Rejected
+LN100466,56,,Yes,Not Graduate,Salaried,544000.0,670.0,332000.0,48,0,0.16,Rented,2,Rejected
+LN100467,30,Female,No,Not Graduate,Salaried,1326000.0,558.0,395000.0,36,0,0.14,Rented,2,Approved
+LN100468,57,Female,No,Graduate,Salaried,623000.0,600.0,187000.0,36,1,0.27,Owned,2,Rejected
+LN100469,29,Female,Yes,Not Graduate,Salaried,1202000.0,813.0,604000.0,24,4,0.43,Rented,1,Rejected
+LN100470,44,Female,Yes,Graduate,Self-employed,347000.0,588.0,201000.0,36,0,0.24,Rented,0,Approved
+LN100471,55,Male,Yes,Not Graduate,Salaried,830000.0,613.0,474000.0,36,1,0.22,Family,2,Rejected
+LN100472,55,Male,No,Graduate,Business,401000.0,695.0,248000.0,48,1,0.28,Rented,0,Approved
+LN100473,56,Male,Yes,Graduate,Salaried,442000.0,698.0,241000.0,60,0,0.2,Rented,0,Approved
+LN100474,38,Male,Yes,Graduate,Salaried,478000.0,675.0,358000.0,48,3,0.4,Rented,1,Approved
+LN100475,59,Male,No,Graduate,Self-employed,462000.0,560.0,237000.0,36,1,0.27,Owned,3+,Rejected
+LN100476,52,Male,Yes,Graduate,Salaried,463000.0,745.0,50000.0,48,1,0.18,Rented,0,Rejected
+LN100477,44,Male,Yes,Not Graduate,Self-employed,1172000.0,661.0,776000.0,36,2,0.29,Rented,2,Rejected
+LN100478,43,Female,Yes,,Business,615000.0,769.0,483000.0,12,3,0.43,Owned,0,Rejected
+LN100479,52,Female,No,Graduate,Salaried,679000.0,648.0,230000.0,48,1,0.25,Rented,3+,Rejected
+LN100480,57,Male,Yes,Graduate,,467000.0,754.0,386000.0,36,0,0.29,Rented,1,Approved
+LN100481,32,Male,Yes,Graduate,Salaried,961000.0,774.0,434000.0,60,2,0.34,Rented,0,Approved
+LN100482,33,Female,Yes,Graduate,Salaried,729000.0,660.0,452000.0,60,1,0.28,Rented,0,Rejected
+LN100483,43,Male,Yes,Graduate,Salaried,506000.0,747.0,431000.0,60,3,0.38,Rented,1,Rejected
+LN100484,45,Female,No,Graduate,Salaried,251000.0,,171000.0,60,3,0.33,Rented,0,Rejected
+LN100485,55,Male,Yes,Graduate,Salaried,676000.0,707.0,228000.0,12,0,0.15,Family,0,Approved
+LN100486,50,Male,Yes,Graduate,Self-employed,823000.0,769.0,445000.0,60,3,0.39,Owned,2,Rejected
+LN100487,37,Female,Yes,Graduate,Self-employed,350000.0,724.0,209000.0,60,1,0.29,Family,1,Rejected
+LN100488,40,Male,Yes,Graduate,Self-employed,510000.0,846.0,81000.0,48,1,0.19,Rented,2,Approved
+LN100489,45,Female,Yes,Not Graduate,Salaried,806000.0,727.0,505000.0,12,0,0.21,Rented,0,Rejected
+LN100490,42,Female,No,Not Graduate,Salaried,253000.0,666.0,162000.0,60,3,0.45,Rented,1,Rejected
+LN100491,33,Male,Yes,Graduate,Business,420000.0,850.0,97000.0,24,1,0.22,Owned,1,Approved
+LN100492,39,Male,No,Not Graduate,Self-employed,738000.0,796.0,513000.0,60,1,0.28,Owned,0,Rejected
+LN100493,56,Female,No,Graduate,Business,1102000.0,586.0,405000.0,12,3,0.31,Rented,1,Rejected
+LN100494,32,Male,Yes,Graduate,Salaried,1996000.0,639.0,1429000.0,48,1,0.25,Rented,0,Rejected
+LN100495,39,Female,Yes,Not Graduate,,1762000.0,623.0,1174000.0,36,1,0.24,Rented,2,Rejected
+LN100496,32,Male,Yes,Graduate,Self-employed,649000.0,732.0,436000.0,24,2,0.3,Rented,2,Approved
+LN100497,29,Male,Yes,Not Graduate,Salaried,460000.0,727.0,344000.0,24,2,0.35,Owned,1,Rejected
+LN100498,27,Male,Yes,Graduate,Salaried,997000.0,727.0,286000.0,36,3,,Owned,0,Rejected
+LN100499,48,Male,,Graduate,Self-employed,445000.0,584.0,311000.0,24,3,0.38,Rented,0,Rejected
+LN100500,34,Female,Yes,Graduate,Salaried,395000.0,649.0,239000.0,36,1,0.29,Owned,1,Rejected
+LN100501,51,Female,No,Not Graduate,Salaried,507000.0,680.0,236000.0,48,1,0.3,Rented,2,Rejected
+LN100502,39,Male,Yes,Graduate,Business,473000.0,572.0,331000.0,60,0,0.2,Rented,0,Rejected
+LN100503,36,Female,No,Graduate,Daily Wage,753000.0,633.0,315000.0,60,1,0.21,Rented,0,Rejected
+LN100504,25,Male,Yes,Graduate,Salaried,431000.0,778.0,151000.0,12,1,0.14,Owned,1,Approved
+LN100505,55,Male,No,Graduate,Salaried,629000.0,589.0,195000.0,36,2,0.26,Owned,1,Rejected
+LN100506,32,Male,Yes,Graduate,Salaried,1443000.0,785.0,937000.0,36,0,0.21,Rented,0,Approved
+LN100507,45,Male,Yes,Graduate,,642000.0,761.0,184000.0,60,0,0.18,Rented,1,Rejected
+LN100508,41,Male,No,Not Graduate,Salaried,1382000.0,671.0,847000.0,60,0,0.21,Owned,0,Rejected
+LN100509,56,Female,Yes,Graduate,Daily Wage,1162000.0,648.0,225000.0,36,0,0.11,Family,1,Approved
+LN100510,43,Male,Yes,Not Graduate,Salaried,831000.0,744.0,604000.0,12,1,,Owned,1,Approved
+LN100511,36,Male,No,Not Graduate,Salaried,494000.0,639.0,381000.0,60,0,0.26,Rented,2,Rejected
+LN100512,59,Male,Yes,Graduate,Self-employed,1063000.0,642.0,254000.0,60,0,0.09,Owned,0,Rejected
+LN100513,59,Male,Yes,Graduate,Business,523000.0,688.0,309000.0,60,0,0.24,Rented,0,Rejected
+LN100514,34,Female,No,Graduate,Salaried,599000.0,552.0,348000.0,60,2,0.36,Rented,1,Rejected
+LN100515,51,Male,No,Graduate,Salaried,719000.0,596.0,294000.0,36,2,0.3,Owned,1,Rejected
+LN100516,25,Male,No,Graduate,Daily Wage,598000.0,669.0,463000.0,24,0,0.21,Rented,1,Approved
+LN100517,55,Male,Yes,Graduate,Salaried,404000.0,721.0,243000.0,36,2,0.31,Rented,2,Approved
+LN100518,43,Male,No,Graduate,Business,259000.0,638.0,138000.0,36,1,0.29,Rented,3+,Approved
+LN100519,49,Male,Yes,Graduate,Salaried,1017000.0,677.0,218000.0,36,0,0.1,Owned,0,Approved
+LN100520,31,Male,No,Graduate,Business,821000.0,585.0,354000.0,48,1,0.25,Owned,2,Approved
+LN100521,38,Female,,Graduate,Self-employed,233000.0,751.0,196000.0,36,0,0.25,Owned,1,Approved
+LN100522,32,Female,No,Graduate,Salaried,398000.0,704.0,164000.0,36,2,0.29,Rented,0,Approved
+LN100523,29,Male,No,Not Graduate,Business,662000.0,710.0,136000.0,36,0,0.11,Rented,3+,Rejected
+LN100524,30,Male,Yes,Graduate,Salaried,765000.0,722.0,312000.0,24,3,0.35,Family,2,Approved
+LN100525,37,Male,No,Graduate,Salaried,260000.0,695.0,219000.0,36,0,0.26,Rented,3+,Approved
+LN100526,58,Male,No,Graduate,Self-employed,571000.0,659.0,,60,1,0.13,Rented,0,Approved
+LN100527,27,Male,Yes,Graduate,Salaried,807000.0,763.0,429000.0,60,3,0.36,Rented,0,Rejected
+LN100528,33,Male,No,Graduate,Self-employed,495000.0,700.0,281000.0,36,0,0.22,Owned,1,Rejected
+LN100529,60,Male,Yes,Graduate,Salaried,691000.0,679.0,516000.0,48,1,0.28,Owned,2,Approved
+LN100530,29,Male,No,Graduate,Salaried,459000.0,689.0,50000.0,12,1,0.09,Rented,0,Approved
+LN100531,47,Male,No,Graduate,Salaried,989000.0,688.0,596000.0,60,1,0.26,Rented,2,Approved
+LN100532,22,Male,No,Graduate,Salaried,387000.0,679.0,362000.0,36,0,0.32,Owned,1,Rejected
+LN100533,25,Male,Yes,Graduate,Salaried,320000.0,719.0,50000.0,36,0,0.12,Rented,1,Rejected
+LN100534,49,Male,,Graduate,Business,610000.0,629.0,148000.0,60,1,0.25,Rented,1,Approved
+LN100535,57,Male,Yes,Not Graduate,Daily Wage,273000.0,634.0,213000.0,36,1,0.27,Rented,2,Approved
+LN100536,58,Female,No,Not Graduate,Business,189000.0,726.0,50000.0,12,1,0.16,Owned,0,Rejected
+LN100537,39,Male,Yes,Graduate,Salaried,1089000.0,681.0,684000.0,24,0,0.21,Rented,3+,Rejected
+LN100538,28,Female,Yes,Not Graduate,Salaried,349000.0,753.0,87000.0,36,0,0.12,Owned,1,Approved
+LN100539,21,Male,No,Graduate,Salaried,288000.0,717.0,84000.0,36,1,0.22,Owned,0,Approved
+LN100540,42,Female,Yes,Graduate,Salaried,384000.0,654.0,183000.0,60,1,0.23,Rented,2,Rejected
+LN100541,37,Male,No,,Self-employed,375000.0,727.0,177000.0,48,1,0.29,Owned,3+,Approved
+LN100542,27,Female,No,Graduate,Salaried,555000.0,768.0,294000.0,60,0,0.18,Owned,2,Approved
+LN100543,45,Female,No,Graduate,Salaried,329000.0,719.0,235000.0,36,0,0.23,Owned,2,Approved
+LN100544,24,Male,Yes,Graduate,Daily Wage,789000.0,733.0,313000.0,36,0,0.19,Rented,2,Rejected
+LN100545,56,Male,Yes,Graduate,Salaried,856000.0,679.0,545000.0,36,0,0.25,Owned,3+,Rejected
+LN100546,26,Male,Yes,Not Graduate,Salaried,298000.0,755.0,212000.0,36,0,0.28,Owned,0,Approved
+LN100547,51,Male,Yes,Not Graduate,Salaried,427000.0,652.0,264000.0,48,1,0.26,Rented,2,Approved
+LN100548,39,Male,Yes,Not Graduate,Salaried,450000.0,712.0,302000.0,36,1,0.26,Rented,2,Rejected
+LN100549,59,Male,Yes,Not Graduate,Business,548000.0,850.0,234000.0,60,1,0.16,Family,0,Rejected
+LN100550,47,Male,No,Graduate,Salaried,1088000.0,,316000.0,36,0,0.22,Rented,1,Approved
+LN100551,30,Male,No,Graduate,Salaried,1123000.0,663.0,608000.0,24,0,0.21,Rented,1,Rejected
+LN100552,46,Female,Yes,Graduate,Salaried,2372000.0,662.0,1144000.0,24,1,0.27,Rented,2,Approved
+LN100553,39,Male,No,Graduate,Salaried,180000.0,685.0,86000.0,12,3,0.37,Owned,0,Rejected
+LN100554,59,Female,No,Graduate,Salaried,361000.0,745.0,323000.0,36,2,0.37,Family,2,Approved
+LN100555,23,Male,No,Not Graduate,Business,1627000.0,699.0,669000.0,24,2,0.3,Rented,0,Rejected
+LN100556,33,Male,No,Graduate,Business,223000.0,648.0,138000.0,12,2,0.3,Owned,1,Rejected
+LN100557,48,Male,Yes,Graduate,Business,1607000.0,648.0,652000.0,48,1,0.22,Rented,3+,Rejected
+LN100558,40,Male,Yes,Graduate,Salaried,651000.0,700.0,293000.0,60,0,0.15,Owned,1,Approved
+LN100559,48,Female,Yes,Graduate,Business,664000.0,,350000.0,24,1,0.3,Family,1,Approved
+LN100560,28,Male,Yes,Not Graduate,Self-employed,297000.0,720.0,186000.0,36,0,0.23,Family,0,Approved
+LN100561,59,Female,No,Graduate,Salaried,468000.0,750.0,285000.0,60,1,0.33,Rented,2,Approved
+LN100562,21,Male,No,Graduate,Self-employed,,850.0,385000.0,60,2,0.33,Owned,3+,Approved
+LN100563,23,Male,Yes,Not Graduate,Salaried,584000.0,595.0,230000.0,60,2,0.23,Owned,3+,Approved
+LN100564,33,Male,Yes,Graduate,Salaried,470000.0,735.0,296000.0,36,0,0.25,Owned,2,Approved
+LN100565,48,Male,No,Graduate,Business,750000.0,696.0,556000.0,60,1,0.24,Owned,0,Approved
+LN100566,45,Male,Yes,Graduate,Salaried,540000.0,570.0,194000.0,48,1,0.23,Rented,0,Rejected
+LN100567,53,Male,Yes,Not Graduate,Self-employed,725000.0,771.0,512000.0,24,2,0.35,Family,0,Approved
+LN100568,58,Male,No,Graduate,Salaried,376000.0,717.0,268000.0,60,2,0.29,Rented,1,Approved
+LN100569,26,Male,Yes,Not Graduate,Business,575000.0,742.0,463000.0,36,4,0.44,Rented,0,Approved
+LN100570,52,Male,Yes,Not Graduate,Daily Wage,422000.0,580.0,155000.0,60,0,0.18,Rented,0,Rejected
+LN100571,41,Male,Yes,Graduate,Business,222000.0,676.0,198000.0,60,1,0.32,Family,1,Approved
+LN100572,36,Male,No,Not Graduate,Salaried,782000.0,620.0,443000.0,48,0,0.17,Owned,0,Approved
+LN100573,41,Male,Yes,Not Graduate,Salaried,304000.0,831.0,163000.0,60,0,0.17,Rented,2,Rejected
+LN100574,31,Male,Yes,Not Graduate,Salaried,548000.0,764.0,237000.0,36,3,0.29,Rented,3+,Rejected
+LN100575,57,Male,Yes,Not Graduate,,999000.0,646.0,475000.0,36,4,0.36,Family,2,Rejected
+LN100576,56,Male,Yes,Graduate,Salaried,263000.0,590.0,85000.0,60,0,0.15,Family,2,Approved
+LN100577,55,Male,Yes,Graduate,,837000.0,703.0,278000.0,60,0,0.19,Rented,2,Approved
+LN100578,39,Male,No,Graduate,Self-employed,509000.0,761.0,217000.0,60,0,0.22,Owned,0,Approved
+LN100579,40,Female,Yes,Graduate,Daily Wage,353000.0,577.0,265000.0,60,2,0.41,Rented,0,Rejected
+LN100580,38,Male,No,Graduate,Salaried,1825000.0,629.0,498000.0,60,0,0.16,Owned,0,Approved
+LN100581,34,Male,Yes,Not Graduate,Salaried,600000.0,618.0,233000.0,60,0,0.18,Rented,0,Approved
+LN100582,35,Male,Yes,Not Graduate,Salaried,439000.0,,272000.0,36,0,0.23,Rented,2,Rejected
+LN100583,51,Male,Yes,Graduate,Daily Wage,391000.0,666.0,178000.0,24,1,0.25,Rented,3+,Approved
+LN100584,21,Male,Yes,Not Graduate,Business,974000.0,669.0,175000.0,60,3,0.24,,3+,Rejected
+LN100585,23,,Yes,Not Graduate,Business,429000.0,701.0,214000.0,36,0,0.26,Rented,0,Rejected
+LN100586,36,Female,Yes,Graduate,Daily Wage,910000.0,633.0,50000.0,36,1,0.1,Owned,3+,Rejected
+LN100587,43,Male,Yes,Graduate,Self-employed,599000.0,596.0,214000.0,36,0,0.2,Owned,0,Approved
+LN100588,31,Male,No,Graduate,Salaried,1109000.0,779.0,593000.0,60,1,0.25,Family,2,Approved
+LN100589,32,Male,Yes,Not Graduate,Salaried,338000.0,785.0,85000.0,60,2,0.22,Owned,0,Approved
+LN100590,30,Male,No,Graduate,Self-employed,365000.0,702.0,319000.0,48,0,0.28,Owned,0,Rejected
+LN100591,52,Male,No,Graduate,Salaried,514000.0,706.0,122000.0,36,0,0.14,Owned,1,Approved
+LN100592,36,,Yes,Graduate,Salaried,538000.0,772.0,208000.0,60,2,0.26,Rented,2,Rejected
+LN100593,28,Male,Yes,Not Graduate,Daily Wage,494000.0,700.0,50000.0,48,0,0.07,Owned,0,Rejected
+LN100594,58,Female,Yes,Not Graduate,Daily Wage,2551000.0,663.0,1094000.0,36,1,0.18,Family,0,Rejected
+LN100595,32,Male,Yes,Graduate,Business,,693.0,1448000.0,36,1,0.27,Family,3+,Approved
+LN100596,44,Male,Yes,Not Graduate,Business,707000.0,,631000.0,36,0,0.25,Family,3+,Approved
+LN100597,48,Male,No,Not Graduate,Business,755000.0,693.0,129000.0,48,1,0.14,Owned,0,Approved
+LN100598,28,Male,Yes,Not Graduate,Salaried,527000.0,646.0,167000.0,48,2,0.27,Family,2,Approved
+LN100599,48,Male,Yes,Not Graduate,Salaried,337000.0,700.0,257000.0,36,1,0.25,Family,0,Rejected
+LN100600,56,Male,,Not Graduate,Business,543000.0,733.0,158000.0,60,0,0.16,Family,1,Rejected
+LN100601,46,Female,Yes,Graduate,Business,917000.0,725.0,301000.0,24,1,0.26,Rented,1,Approved
+LN100602,28,Female,No,Graduate,Salaried,1230000.0,726.0,971000.0,36,1,0.31,Rented,1,Approved
+LN100603,48,Male,Yes,Graduate,Daily Wage,1038000.0,636.0,788000.0,36,1,0.29,Owned,1,Rejected
+LN100604,48,Female,Yes,Graduate,Salaried,262000.0,740.0,,12,2,0.33,Family,1,Rejected
+LN100605,57,Male,Yes,Graduate,Salaried,512000.0,692.0,,36,0,0.27,Owned,1,Approved
+LN100606,56,Male,Yes,Graduate,Self-employed,267000.0,644.0,50000.0,36,1,0.18,Owned,2,Rejected
+LN100607,47,Male,No,Not Graduate,Salaried,1141000.0,740.0,523000.0,36,1,0.32,Family,2,Rejected
+LN100608,37,Female,Yes,Not Graduate,Salaried,478000.0,661.0,223000.0,36,0,0.14,Rented,1,Approved
+LN100609,29,Male,No,Not Graduate,Salaried,585000.0,588.0,180000.0,60,1,0.22,Owned,0,Approved
+LN100610,53,Male,Yes,Graduate,Business,781000.0,625.0,348000.0,36,0,0.23,Family,2,Approved
+LN100611,40,Male,Yes,Graduate,Salaried,2747000.0,678.0,1500000.0,24,0,0.17,Family,2,Rejected
+LN100612,33,Male,Yes,Graduate,Self-employed,695000.0,728.0,556000.0,60,4,0.46,Owned,2,Approved
+LN100613,48,Male,Yes,Graduate,Self-employed,526000.0,634.0,330000.0,24,0,0.23,Family,1,Rejected
+LN100614,49,Male,No,Graduate,Salaried,303000.0,674.0,290000.0,60,0,0.29,Rented,0,Rejected
+LN100615,33,Male,Yes,Graduate,Daily Wage,1338000.0,611.0,1007000.0,60,1,0.31,Rented,2,Rejected
+LN100616,55,Male,Yes,Not Graduate,Salaried,543000.0,754.0,231000.0,36,4,0.44,Owned,0,Rejected
+LN100617,26,Male,Yes,Graduate,Daily Wage,1493000.0,802.0,897000.0,60,4,0.42,Owned,3+,Approved
+LN100618,38,Female,Yes,Graduate,Self-employed,1102000.0,,582000.0,60,1,0.3,Owned,2,Rejected
+LN100619,25,Male,Yes,Graduate,Daily Wage,465000.0,753.0,190000.0,60,0,0.11,Owned,0,Approved
+LN100620,45,Male,Yes,Graduate,Salaried,279000.0,746.0,131000.0,60,3,0.39,Family,1,Rejected
+LN100621,22,Female,No,Graduate,Self-employed,697000.0,555.0,503000.0,36,1,0.33,Rented,2,Approved
+LN100622,30,Male,Yes,Not Graduate,Salaried,428000.0,702.0,50000.0,60,1,0.15,Family,0,Approved
+LN100623,50,Male,Yes,Graduate,Salaried,613000.0,658.0,89000.0,24,2,0.19,Rented,1,Approved
+LN100624,25,Female,Yes,Graduate,Self-employed,1068000.0,747.0,656000.0,24,1,0.26,Owned,2,Rejected
+LN100625,53,Male,Yes,,,242000.0,525.0,207000.0,36,0,0.27,Family,2,Rejected
+LN100626,21,Male,No,Graduate,Self-employed,694000.0,703.0,529000.0,36,2,0.34,Family,0,Rejected
+LN100627,38,Male,Yes,Graduate,Salaried,911000.0,676.0,202000.0,48,1,0.21,Owned,1,Approved
+LN100628,52,Male,Yes,Not Graduate,Salaried,936000.0,763.0,303000.0,60,0,0.23,Owned,3+,Approved
+LN100629,31,Male,,Graduate,Business,283000.0,791.0,50000.0,60,0,0.08,Rented,3+,Approved
+LN100630,41,Male,Yes,Graduate,Salaried,756000.0,630.0,202000.0,24,1,0.13,Rented,2,Approved
+LN100631,46,Male,Yes,Graduate,Self-employed,1163000.0,633.0,178000.0,60,0,0.13,Family,3+,Rejected
+LN100632,45,Male,No,,Self-employed,725000.0,705.0,456000.0,60,0,0.19,Owned,1,Approved
+LN100633,42,Female,No,Not Graduate,Business,563000.0,803.0,155000.0,12,1,0.19,Owned,1,Approved
+LN100634,47,Female,No,Graduate,,1123000.0,694.0,488000.0,36,3,0.39,Rented,1,Rejected
+LN100635,33,Male,Yes,Graduate,Business,410000.0,607.0,72000.0,60,1,0.18,Rented,0,Rejected
+LN100636,53,Male,Yes,Graduate,Daily Wage,259000.0,651.0,126000.0,48,2,0.3,Owned,1,Approved
+LN100637,54,Female,Yes,Graduate,Business,537000.0,703.0,344000.0,60,2,0.31,Rented,1,Rejected
+LN100638,55,Male,Yes,Graduate,Self-employed,805000.0,706.0,327000.0,60,1,0.23,Rented,2,Rejected
+LN100639,21,Male,No,Graduate,Self-employed,1062000.0,644.0,672000.0,36,0,0.22,Rented,2,Approved
+LN100640,41,Female,Yes,Graduate,Business,803000.0,649.0,235000.0,12,2,0.36,Owned,1,Rejected
+LN100641,26,Male,No,Not Graduate,Self-employed,950000.0,626.0,290000.0,48,1,,Rented,1,Approved
+LN100642,48,Male,No,Graduate,Salaried,1066000.0,764.0,471000.0,12,0,0.22,Family,0,Approved
+LN100643,37,Female,Yes,Not Graduate,Salaried,498000.0,636.0,158000.0,48,0,0.16,Family,1,Approved
+LN100644,25,Male,Yes,Graduate,Business,553000.0,660.0,250000.0,60,2,0.22,Owned,2,Rejected
+LN100645,51,Male,No,Not Graduate,Salaried,1218000.0,658.0,539000.0,48,0,0.16,Owned,0,Approved
+LN100646,25,Male,Yes,Not Graduate,Business,308000.0,586.0,289000.0,60,0,0.28,Family,1,Approved
+LN100647,58,Female,No,Graduate,Salaried,760000.0,634.0,367000.0,36,2,0.32,Rented,1,Rejected
+LN100648,23,Female,Yes,Not Graduate,Self-employed,405000.0,770.0,314000.0,60,3,0.41,Rented,2,Rejected
+LN100649,43,Female,Yes,Graduate,Salaried,1099000.0,,744000.0,60,1,0.31,Rented,3+,Rejected
+LN100650,57,Male,Yes,Not Graduate,Salaried,594000.0,627.0,289000.0,60,0,0.14,Owned,2,Approved
+LN100651,57,Female,No,Graduate,Daily Wage,603000.0,603.0,274000.0,60,0,0.18,Rented,1,Approved
+LN100652,30,Female,Yes,Graduate,Business,1553000.0,684.0,1271000.0,24,1,0.35,Rented,1,Approved
+LN100653,30,Male,No,Graduate,Self-employed,332000.0,813.0,173000.0,60,0,0.16,Rented,0,Approved
+LN100654,39,Female,Yes,Not Graduate,Salaried,676000.0,681.0,321000.0,60,1,0.28,Owned,0,Approved
+LN100655,37,Female,No,Graduate,Self-employed,543000.0,694.0,279000.0,12,0,0.23,Family,0,Rejected
+LN100656,41,Male,No,Graduate,,804000.0,638.0,486000.0,60,3,0.33,Rented,0,Rejected
+LN100657,34,Male,Yes,Not Graduate,Self-employed,1734000.0,686.0,947000.0,60,1,0.27,Rented,0,Rejected
+LN100658,29,Male,Yes,Not Graduate,Salaried,430000.0,770.0,151000.0,48,0,0.17,Family,0,Rejected
+LN100659,21,Male,No,Graduate,Self-employed,311000.0,699.0,132000.0,36,2,0.28,Rented,0,Rejected
+LN100660,33,Male,Yes,Graduate,Business,384000.0,829.0,376000.0,60,0,0.22,Rented,2,Approved
+LN100661,24,Male,No,Graduate,Daily Wage,528000.0,772.0,137000.0,60,0,0.14,Family,3+,Approved
+LN100662,21,Female,Yes,Graduate,Salaried,622000.0,684.0,178000.0,48,2,0.26,Owned,3+,Approved
+LN100663,60,Female,No,Graduate,Business,639000.0,683.0,219000.0,24,0,0.1,Rented,0,Approved
+LN100664,52,,No,Not Graduate,Self-employed,1617000.0,796.0,1038000.0,36,1,0.22,Family,1,Approved
+LN100665,54,Male,No,Graduate,Salaried,1466000.0,699.0,189000.0,60,0,0.09,Owned,2,Rejected
+LN100666,48,Male,Yes,Graduate,Salaried,1229000.0,782.0,724000.0,60,0,0.17,Owned,0,Approved
+LN100667,51,Male,Yes,Graduate,Salaried,2392000.0,820.0,,36,0,0.16,Family,2,Rejected
+LN100668,28,Male,Yes,Graduate,Salaried,944000.0,677.0,479000.0,36,2,0.33,Family,1,Approved
+LN100669,59,Female,Yes,Graduate,Salaried,1104000.0,713.0,719000.0,12,1,0.26,Family,3+,Approved
+LN100670,46,Female,Yes,Graduate,Business,934000.0,754.0,438000.0,60,0,0.21,Owned,3+,Approved
+LN100671,54,Male,Yes,Graduate,Business,854000.0,740.0,439000.0,12,0,,Owned,2,Approved
+LN100672,23,Female,No,Not Graduate,Self-employed,745000.0,739.0,204000.0,12,3,0.31,Owned,2,Approved
+LN100673,32,Female,Yes,Graduate,Daily Wage,482000.0,603.0,264000.0,12,4,0.43,Rented,0,Rejected
+LN100674,21,Male,Yes,Not Graduate,Salaried,302000.0,635.0,313000.0,48,1,0.33,Rented,0,Approved
+LN100675,25,Female,No,Not Graduate,Salaried,558000.0,658.0,159000.0,36,2,0.22,Owned,1,Rejected
+LN100676,50,Male,Yes,Graduate,Self-employed,819000.0,769.0,356000.0,36,2,0.26,Owned,0,Approved
+LN100677,50,Male,Yes,Not Graduate,Salaried,624000.0,610.0,250000.0,60,0,0.18,Rented,0,Approved
+LN100678,37,Male,No,Graduate,Salaried,334000.0,789.0,66000.0,24,0,0.13,Rented,0,Approved
+LN100679,43,Male,,Graduate,Salaried,548000.0,741.0,248000.0,36,0,0.21,Owned,2,Approved
+LN100680,35,Male,Yes,Not Graduate,Salaried,532000.0,765.0,433000.0,60,2,0.29,Family,0,Rejected
+LN100681,57,Male,Yes,Graduate,,580000.0,630.0,153000.0,36,2,0.2,Owned,0,Rejected
+LN100682,41,Male,No,Graduate,Salaried,786000.0,695.0,424000.0,48,1,0.2,Rented,1,Approved
+LN100683,34,Male,Yes,Graduate,Salaried,885000.0,709.0,267000.0,24,0,0.16,Family,1,Approved
+LN100684,22,Male,Yes,Graduate,Salaried,456000.0,707.0,184000.0,60,1,0.18,Rented,0,Approved
+LN100685,31,Male,Yes,Graduate,Business,1029000.0,709.0,894000.0,36,2,0.38,Owned,3+,Approved
+LN100686,59,Male,Yes,Not Graduate,Salaried,1118000.0,672.0,746000.0,60,2,0.36,Owned,1,Approved
+LN100687,58,Male,Yes,Graduate,,716000.0,699.0,52000.0,36,0,0.17,Family,1,Rejected
+LN100688,54,,Yes,Graduate,Salaried,865000.0,757.0,439000.0,36,2,0.35,Owned,0,Rejected
+LN100689,58,Male,Yes,Graduate,Salaried,1031000.0,614.0,366000.0,60,0,0.14,Rented,1,Approved
+LN100690,54,Male,No,Graduate,Self-employed,328000.0,791.0,259000.0,60,2,0.29,Family,2,Rejected
+LN100691,38,Male,Yes,Graduate,Salaried,1072000.0,754.0,756000.0,12,1,0.26,Family,0,Rejected
+LN100692,50,Female,No,Not Graduate,Salaried,389000.0,627.0,187000.0,60,0,0.22,Rented,1,Rejected
+LN100693,35,Male,No,Graduate,Salaried,410000.0,715.0,199000.0,36,2,0.28,Family,0,Approved
+LN100694,47,Male,Yes,Graduate,Daily Wage,668000.0,749.0,207000.0,48,0,0.15,Family,3+,Approved
+LN100695,54,Female,Yes,Not Graduate,Salaried,185000.0,610.0,103000.0,36,2,0.29,Owned,,Approved
+LN100696,58,Female,Yes,Not Graduate,Business,661000.0,693.0,323000.0,48,0,0.24,Owned,3+,Approved
+LN100697,53,Female,Yes,Graduate,Salaried,1030000.0,685.0,239000.0,36,2,0.22,Owned,0,Approved
+LN100698,44,Female,No,Graduate,Salaried,243000.0,648.0,196000.0,36,3,0.41,Owned,1,Rejected
+LN100699,35,Male,Yes,Graduate,Salaried,1092000.0,696.0,757000.0,12,0,0.26,Family,2,Rejected
+LN100700,50,Male,No,Graduate,Daily Wage,409000.0,651.0,243000.0,24,1,0.33,Rented,0,Rejected
+LN100701,37,Male,Yes,Graduate,,672000.0,779.0,78000.0,60,1,0.15,Family,1,Rejected
+LN100702,25,Male,Yes,Graduate,Salaried,443000.0,649.0,254000.0,60,0,0.24,Rented,0,Approved
+LN100703,49,Male,No,Not Graduate,Salaried,822000.0,741.0,547000.0,60,1,0.25,Rented,0,Approved
+LN100704,24,Male,Yes,Not Graduate,Salaried,1054000.0,582.0,247000.0,36,2,0.3,Rented,2,Rejected
+LN100705,30,Male,Yes,Graduate,Salaried,856000.0,679.0,369000.0,36,3,0.4,Owned,0,Rejected
+LN100706,37,Female,Yes,Graduate,Self-employed,599000.0,691.0,435000.0,60,2,0.31,Family,2,Rejected
+LN100707,30,Female,Yes,Graduate,Salaried,462000.0,677.0,249000.0,60,1,0.27,Rented,0,Rejected
+LN100708,37,Male,Yes,Graduate,Salaried,578000.0,664.0,178000.0,36,2,0.3,Rented,0,Rejected
+LN100709,40,Female,No,Graduate,Business,861000.0,647.0,550000.0,60,2,0.31,Owned,2,Rejected
+LN100710,44,Male,Yes,Not Graduate,Salaried,877000.0,739.0,575000.0,60,1,0.29,Family,1,Approved
+LN100711,25,Female,No,Graduate,Salaried,812000.0,755.0,404000.0,60,0,0.21,Family,,Approved
+LN100712,54,Male,,Graduate,Salaried,296000.0,685.0,274000.0,24,1,0.39,Rented,1,Approved
+LN100713,26,Female,No,Not Graduate,Self-employed,592000.0,619.0,293000.0,12,2,0.23,Rented,0,Rejected
+LN100714,22,Male,Yes,Graduate,Salaried,423000.0,807.0,75000.0,36,1,0.18,Rented,2,Rejected
+LN100715,33,Male,No,Graduate,Self-employed,865000.0,633.0,347000.0,48,2,0.24,Owned,0,Rejected
+LN100716,31,Male,Yes,,Salaried,394000.0,595.0,99000.0,24,0,0.15,Owned,0,Rejected
+LN100717,43,Male,No,Graduate,Self-employed,769000.0,559.0,556000.0,36,4,0.42,Rented,2,Rejected
+LN100718,36,Male,No,Not Graduate,Salaried,514000.0,696.0,91000.0,60,1,0.18,Owned,0,Approved
+LN100719,51,Male,No,Graduate,Self-employed,213000.0,676.0,116000.0,36,1,0.22,Rented,0,Approved
+LN100720,31,Male,Yes,Graduate,Business,1001000.0,757.0,518000.0,36,0,0.2,Rented,1,Rejected
+LN100721,36,Male,No,Graduate,Self-employed,592000.0,730.0,417000.0,48,0,0.26,Rented,3+,Approved
+LN100722,28,Male,Yes,Not Graduate,Salaried,1210000.0,709.0,,60,2,,Owned,3+,Rejected
+LN100723,24,Female,No,,Salaried,240000.0,672.0,97000.0,60,4,0.44,Owned,2,Rejected
+LN100724,60,Male,No,Graduate,Salaried,511000.0,762.0,93000.0,24,0,0.17,Owned,1,Approved
+LN100725,24,Male,Yes,Graduate,Salaried,533000.0,811.0,293000.0,60,0,0.27,Rented,2,Approved
+LN100726,45,Male,No,Graduate,Salaried,696000.0,756.0,270000.0,48,1,0.24,Rented,1,Approved
+LN100727,23,Female,Yes,Graduate,Business,289000.0,660.0,99000.0,12,0,0.16,Family,0,Rejected
+LN100728,52,Male,Yes,Graduate,Salaried,809000.0,741.0,228000.0,60,0,0.1,Owned,3+,Approved
+LN100729,23,Female,Yes,Graduate,Salaried,1717000.0,664.0,1021000.0,36,2,0.29,Family,0,Rejected
+LN100730,47,Female,Yes,Graduate,Self-employed,779000.0,,254000.0,36,3,0.32,Owned,1,Approved
+LN100731,49,Male,No,Not Graduate,Self-employed,631000.0,632.0,272000.0,36,0,0.17,Rented,3+,Approved
+LN100732,52,Male,Yes,Graduate,Salaried,281000.0,667.0,131000.0,36,1,0.32,Rented,2,Rejected
+LN100733,39,Female,Yes,Graduate,Business,392000.0,,284000.0,36,0,0.22,Rented,0,Approved
+LN100734,41,Female,No,Graduate,Salaried,582000.0,824.0,463000.0,60,0,0.18,Rented,0,Approved
+LN100735,25,Male,No,Not Graduate,Business,448000.0,633.0,378000.0,24,0,0.28,Rented,1,Rejected
+LN100736,38,Male,No,Graduate,Business,1055000.0,776.0,711000.0,60,1,0.3,Owned,1,Approved
+LN100737,48,Female,No,Not Graduate,Business,805000.0,669.0,755000.0,48,0,0.25,Family,1,Rejected
+LN100738,42,Male,No,Not Graduate,Self-employed,2638000.0,559.0,975000.0,24,1,0.3,Owned,0,Approved
+LN100739,41,Female,Yes,Graduate,Salaried,350000.0,657.0,355000.0,24,0,0.22,Owned,3+,Rejected
+LN100740,26,Male,Yes,Not Graduate,Salaried,611000.0,766.0,326000.0,48,0,0.24,Owned,0,Approved
+LN100741,21,Male,No,Graduate,Self-employed,280000.0,712.0,189000.0,48,0,0.21,Owned,1,Approved
+LN100742,25,Female,Yes,Graduate,Salaried,180000.0,716.0,82000.0,12,3,0.31,Rented,1,Rejected
+LN100743,32,Male,No,Not Graduate,Business,893000.0,776.0,378000.0,36,2,0.37,Rented,0,Rejected
+LN100744,46,Male,Yes,,Salaried,788000.0,623.0,344000.0,60,2,0.31,Owned,0,Approved
+LN100745,54,Male,Yes,Graduate,Salaried,375000.0,622.0,193000.0,12,1,0.24,Owned,3+,Approved
+LN100746,34,Male,Yes,Graduate,Salaried,631000.0,543.0,119000.0,60,0,0.12,Rented,2,Rejected
+LN100747,46,Male,No,Graduate,Salaried,424000.0,747.0,138000.0,60,1,0.22,Rented,0,Approved
+LN100748,47,Male,Yes,Not Graduate,Self-employed,457000.0,,296000.0,36,0,0.2,Family,3+,Rejected
+LN100749,29,Male,No,Graduate,Business,503000.0,737.0,147000.0,36,2,0.31,Family,0,Rejected
+LN100750,46,Female,Yes,Graduate,Self-employed,366000.0,613.0,252000.0,12,0,0.23,Family,2,Rejected
+LN100751,42,Male,Yes,Graduate,Business,405000.0,586.0,52000.0,60,0,0.16,Rented,0,Rejected
+LN100752,50,Male,No,Graduate,Business,411000.0,604.0,65000.0,24,1,0.19,Rented,3+,Rejected
+LN100753,37,Male,No,Not Graduate,Business,757000.0,630.0,563000.0,36,1,0.32,Owned,0,Approved
+LN100754,46,Female,Yes,Graduate,Salaried,180000.0,791.0,199000.0,48,4,0.57,Rented,1,Approved
+LN100755,56,Female,No,Not Graduate,Business,529000.0,755.0,338000.0,36,1,0.33,Owned,2,Rejected
+LN100756,21,,Yes,Graduate,Salaried,330000.0,660.0,144000.0,36,1,0.25,Family,0,Approved
+LN100757,28,Male,Yes,Graduate,Salaried,336000.0,709.0,218000.0,60,0,0.19,Rented,1,Approved
+LN100758,55,Male,Yes,Graduate,Self-employed,449000.0,646.0,287000.0,36,4,0.43,Rented,0,Rejected
+LN100759,35,Female,No,Graduate,Salaried,595000.0,714.0,358000.0,60,1,0.26,Owned,2,Approved
+LN100760,42,Female,No,Graduate,Salaried,533000.0,616.0,253000.0,60,1,0.22,Rented,0,Rejected
+LN100761,34,Male,Yes,Graduate,Salaried,334000.0,739.0,288000.0,36,0,0.23,Owned,1,Approved
+LN100762,46,Female,No,Graduate,Salaried,892000.0,635.0,527000.0,36,2,0.32,Owned,3+,Approved
+LN100763,48,Female,Yes,,Daily Wage,365000.0,742.0,287000.0,36,0,0.21,Rented,0,Approved
+LN100764,43,Male,Yes,Graduate,Salaried,401000.0,662.0,175000.0,48,1,0.19,Owned,0,Rejected
+LN100765,34,Male,Yes,Graduate,Salaried,702000.0,639.0,161000.0,36,3,0.25,Rented,2,Approved
+LN100766,44,Male,Yes,Graduate,Salaried,716000.0,795.0,385000.0,60,4,0.43,Rented,2,Rejected
+LN100767,22,Male,Yes,,Salaried,429000.0,702.0,166000.0,48,1,0.24,Family,3+,Rejected
+LN100768,46,Female,Yes,Graduate,Daily Wage,180000.0,669.0,50000.0,36,2,0.25,Rented,0,Rejected
+LN100769,34,Male,No,Not Graduate,Salaried,369000.0,739.0,238000.0,48,0,0.25,Owned,1,Approved
+LN100770,27,Male,Yes,Not Graduate,Self-employed,656000.0,603.0,201000.0,36,2,0.23,Family,2,Rejected
+LN100771,23,Male,Yes,Graduate,Business,876000.0,762.0,383000.0,60,1,0.25,Rented,2,Approved
+LN100772,43,Male,Yes,Graduate,Daily Wage,574000.0,681.0,152000.0,48,1,0.2,Rented,2,Rejected
+LN100773,38,Male,Yes,Graduate,Self-employed,461000.0,729.0,224000.0,12,3,0.33,Rented,0,Rejected
+LN100774,58,Male,Yes,Graduate,Business,2118000.0,589.0,826000.0,24,2,0.26,Rented,0,Rejected
+LN100775,55,Male,No,Graduate,Salaried,489000.0,665.0,437000.0,60,0,0.24,Owned,0,Rejected
+LN100776,35,Male,Yes,,Salaried,840000.0,690.0,497000.0,48,2,0.33,Rented,3+,Rejected
+LN100777,45,Male,No,Graduate,Salaried,288000.0,757.0,274000.0,60,0,,Rented,0,Rejected
+LN100778,57,Male,No,Graduate,Business,329000.0,734.0,171000.0,12,2,0.29,Owned,1,Rejected
+LN100779,48,Male,Yes,Not Graduate,Salaried,857000.0,664.0,486000.0,36,2,0.29,Family,1,Rejected
+LN100780,30,Male,No,Graduate,Salaried,1066000.0,711.0,862000.0,24,0,,Rented,1,Approved
+LN100781,59,,Yes,Graduate,Salaried,484000.0,772.0,50000.0,48,2,0.17,,1,Rejected
+LN100782,37,Male,No,Graduate,Salaried,217000.0,677.0,50000.0,36,1,0.2,Rented,2,Approved
+LN100783,59,Male,Yes,Graduate,Salaried,547000.0,670.0,208000.0,24,1,0.28,Owned,1,Rejected
+LN100784,42,Male,Yes,Not Graduate,Daily Wage,666000.0,567.0,247000.0,48,0,0.14,Family,0,Approved
+LN100785,46,Female,Yes,Not Graduate,Salaried,634000.0,672.0,352000.0,48,0,0.19,Family,1,Approved
+LN100786,45,Male,Yes,Not Graduate,Self-employed,440000.0,577.0,50000.0,36,2,0.27,Rented,2,Rejected
+LN100787,37,,Yes,Graduate,Business,552000.0,683.0,362000.0,36,0,0.24,Family,3+,Rejected
+LN100788,33,Female,Yes,Not Graduate,Salaried,397000.0,754.0,59000.0,60,1,0.18,Owned,2,Approved
+LN100789,40,Male,Yes,Graduate,Salaried,326000.0,552.0,210000.0,24,2,0.32,Family,2,Approved
+LN100790,45,Male,No,Not Graduate,Salaried,909000.0,770.0,382000.0,36,0,0.13,Owned,1,Approved
+LN100791,24,Female,No,Graduate,Salaried,633000.0,669.0,475000.0,36,1,,Owned,2,Rejected
+LN100792,30,Female,Yes,Not Graduate,Self-employed,552000.0,688.0,78000.0,60,1,0.13,Owned,3+,Approved
+LN100793,23,Male,Yes,Not Graduate,Salaried,454000.0,657.0,,60,2,0.28,Owned,1,Rejected
+LN100794,38,Male,No,Not Graduate,Salaried,543000.0,579.0,321000.0,36,1,0.3,Owned,0,Rejected
+LN100795,56,Male,No,Graduate,Self-employed,655000.0,639.0,420000.0,36,1,0.28,Family,3+,Rejected
+LN100796,42,Male,No,Graduate,Daily Wage,1553000.0,826.0,602000.0,60,0,0.2,Family,2,Approved
+LN100797,54,Male,Yes,Not Graduate,Business,860000.0,619.0,577000.0,60,2,0.3,,1,Approved
+LN100798,28,Male,Yes,Graduate,Business,416000.0,587.0,171000.0,60,0,0.19,Owned,3+,Approved
+LN100799,60,Male,Yes,Not Graduate,Business,418000.0,699.0,302000.0,60,4,0.43,Family,1,Rejected
+LN100800,39,Male,Yes,Graduate,Salaried,384000.0,684.0,112000.0,60,1,0.2,Rented,1,Approved
+LN100801,57,Female,No,Graduate,Business,537000.0,669.0,308000.0,60,3,0.4,Owned,1,Rejected
+LN100802,26,Male,No,Not Graduate,Salaried,384000.0,691.0,264000.0,36,1,0.27,Rented,0,Rejected
+LN100803,46,Male,Yes,Graduate,Self-employed,779000.0,732.0,249000.0,36,0,0.13,Rented,2,Approved
+LN100804,54,Male,No,Graduate,Self-employed,180000.0,652.0,50000.0,24,3,0.27,Owned,0,Approved
+LN100805,26,Male,Yes,Graduate,Salaried,805000.0,703.0,650000.0,60,0,0.26,Rented,0,Rejected
+LN100806,57,Male,Yes,Graduate,Business,698000.0,757.0,219000.0,60,0,0.19,Rented,1,Approved
+LN100807,53,Female,Yes,Not Graduate,,1202000.0,625.0,397000.0,48,0,0.13,Owned,1,Approved
+LN100808,42,Male,No,Graduate,,972000.0,539.0,661000.0,36,3,0.41,Family,0,Approved
+LN100809,41,Male,Yes,Not Graduate,Business,412000.0,734.0,262000.0,24,1,0.24,Rented,3+,Rejected
+LN100810,26,Male,No,Not Graduate,Salaried,914000.0,850.0,689000.0,36,1,0.32,Owned,1,Rejected
+LN100811,26,Male,No,Graduate,Self-employed,547000.0,690.0,106000.0,36,2,0.25,Owned,0,Approved
+LN100812,24,Male,Yes,Not Graduate,Self-employed,207000.0,703.0,131000.0,48,1,0.28,Owned,0,Approved
+LN100813,50,Male,Yes,Graduate,Self-employed,655000.0,671.0,323000.0,60,2,0.27,Rented,2,Approved
+LN100814,31,Female,No,Graduate,Daily Wage,426000.0,793.0,303000.0,12,1,0.3,Owned,1,Rejected
+LN100815,50,Male,Yes,Not Graduate,Business,600000.0,685.0,76000.0,12,2,0.21,Rented,0,Approved
+LN100816,51,Male,No,Graduate,Business,1488000.0,678.0,941000.0,48,0,0.2,Owned,0,Rejected
+LN100817,44,Male,No,,Salaried,679000.0,749.0,359000.0,36,0,0.14,Rented,1,Approved
+LN100818,29,Male,Yes,Graduate,Daily Wage,343000.0,659.0,109000.0,60,1,0.19,Rented,0,Approved
+LN100819,23,Female,Yes,Graduate,Salaried,1020000.0,606.0,445000.0,36,1,0.22,Rented,2,Approved
+LN100820,51,Male,No,Graduate,Business,732000.0,747.0,456000.0,36,1,0.28,Rented,3+,Rejected
+LN100821,60,Female,No,Not Graduate,Salaried,321000.0,652.0,132000.0,36,1,0.25,Family,0,Rejected
+LN100822,57,,Yes,Graduate,Salaried,248000.0,627.0,124000.0,24,0,0.17,Rented,2,Rejected
+LN100823,56,Male,Yes,Graduate,Self-employed,351000.0,827.0,90000.0,48,1,0.2,Owned,3+,Approved
+LN100824,44,Male,Yes,Graduate,Salaried,950000.0,678.0,721000.0,24,1,0.35,Rented,3+,Approved
+LN100825,51,Female,No,Graduate,Salaried,508000.0,722.0,137000.0,36,0,0.15,Family,3+,Approved
+LN100826,26,Male,No,Graduate,Salaried,627000.0,692.0,390000.0,36,1,0.25,Owned,2,Approved
+LN100827,22,Male,No,Graduate,Salaried,287000.0,632.0,71000.0,12,0,0.09,Owned,1,Approved
+LN100828,40,Female,Yes,Graduate,Salaried,965000.0,735.0,511000.0,12,1,0.22,Rented,1,Approved
+LN100829,48,Male,Yes,Graduate,,198000.0,710.0,50000.0,48,0,0.11,Rented,1,Approved
+LN100830,31,Male,No,Graduate,Salaried,418000.0,647.0,99000.0,60,3,0.38,Rented,3+,Approved
+LN100831,24,Male,Yes,Graduate,Salaried,755000.0,718.0,434000.0,60,2,0.28,Owned,0,Rejected
+LN100832,35,Female,Yes,Not Graduate,Business,324000.0,657.0,185000.0,24,0,,Owned,0,Rejected
+LN100833,26,Male,Yes,Not Graduate,Salaried,841000.0,618.0,640000.0,24,1,0.3,Family,0,Rejected
+LN100834,50,Female,No,Graduate,Daily Wage,372000.0,612.0,78000.0,12,2,0.29,,2,Rejected
+LN100835,58,Female,No,Not Graduate,Business,306000.0,708.0,128000.0,36,1,0.23,Owned,2,Rejected
+LN100836,22,Male,Yes,Not Graduate,Salaried,1217000.0,665.0,259000.0,48,2,0.23,Rented,1,Rejected
+LN100837,35,Male,Yes,Graduate,Business,653000.0,788.0,530000.0,60,0,0.23,Family,0,Approved
+LN100838,31,Male,No,Graduate,Business,798000.0,687.0,335000.0,60,2,0.3,,2,Rejected
+LN100839,28,Male,No,Not Graduate,Daily Wage,1050000.0,,225000.0,24,1,0.17,Family,0,Rejected
+LN100840,46,Female,Yes,Graduate,Self-employed,180000.0,700.0,50000.0,36,0,0.11,Owned,1,Approved
+LN100841,25,Female,Yes,Graduate,Salaried,851000.0,606.0,223000.0,60,1,0.18,Owned,1,Rejected
+LN100842,26,Male,Yes,Not Graduate,Self-employed,395000.0,685.0,393000.0,36,4,0.45,Owned,3+,Rejected
+LN100843,46,Male,No,Graduate,Self-employed,424000.0,711.0,159000.0,36,2,0.34,Family,1,Rejected
+LN100844,24,Male,Yes,Graduate,Self-employed,763000.0,703.0,245000.0,60,1,0.23,Rented,1,Rejected
+LN100845,39,Male,Yes,Not Graduate,Salaried,491000.0,775.0,213000.0,60,0,0.23,Owned,2,Approved
+LN100846,40,Male,No,Graduate,Business,832000.0,850.0,305000.0,60,1,0.24,Rented,1,Rejected
+LN100847,53,Male,No,Graduate,Daily Wage,587000.0,,219000.0,36,0,0.22,Rented,0,Rejected
+LN100848,40,Male,,Graduate,Salaried,658000.0,767.0,95000.0,36,0,0.14,Rented,1,Approved
+LN100849,32,Male,No,Graduate,Salaried,458000.0,850.0,388000.0,24,1,0.33,Family,3+,Approved
+LN100850,21,Male,Yes,Not Graduate,Salaried,334000.0,625.0,136000.0,48,3,0.26,Owned,1,Approved
+LN100851,46,Male,,Graduate,Business,399000.0,698.0,113000.0,24,2,0.23,Owned,2,Approved
+LN100852,34,Male,Yes,Graduate,Self-employed,567000.0,659.0,206000.0,60,0,0.17,Owned,3+,Rejected
+LN100853,58,Female,No,Graduate,Self-employed,1648000.0,745.0,861000.0,60,1,0.25,Owned,2,Rejected
+LN100854,57,Male,Yes,Graduate,Salaried,1348000.0,708.0,642000.0,48,3,0.35,Owned,2,Approved
+LN100855,31,Female,No,Graduate,Self-employed,419000.0,637.0,218000.0,24,2,0.32,Rented,2,Rejected
+LN100856,56,Female,No,Not Graduate,Salaried,620000.0,691.0,330000.0,12,2,0.32,Owned,3+,Rejected
+LN100857,33,Male,No,Graduate,Salaried,512000.0,758.0,383000.0,60,4,0.48,Family,3+,Rejected
+LN100858,23,Female,No,Graduate,Business,645000.0,605.0,,48,2,0.31,Owned,3+,Rejected
+LN100859,53,Male,No,Graduate,Daily Wage,692000.0,638.0,512000.0,60,0,0.28,Owned,2,Rejected
+LN100860,26,Male,Yes,Not Graduate,Daily Wage,802000.0,628.0,224000.0,36,0,0.19,Owned,1,Approved
+LN100861,30,Male,Yes,Not Graduate,Daily Wage,180000.0,711.0,50000.0,36,4,0.38,Rented,0,Rejected
+LN100862,25,Male,No,Not Graduate,Salaried,734000.0,771.0,338000.0,60,1,0.31,Rented,1,Rejected
+LN100863,43,Male,Yes,Not Graduate,Salaried,482000.0,559.0,169000.0,36,0,0.21,Family,3+,Rejected
+LN100864,30,Male,No,,Business,407000.0,696.0,279000.0,48,1,0.25,Rented,3+,Rejected
+LN100865,22,Male,No,Graduate,Daily Wage,929000.0,630.0,493000.0,60,2,0.32,Family,1,Rejected
+LN100866,33,Male,Yes,Graduate,Salaried,1344000.0,755.0,952000.0,24,4,0.38,Rented,1,Rejected
+LN100867,60,Male,No,Graduate,Salaried,876000.0,675.0,581000.0,12,0,0.16,Owned,0,Approved
+LN100868,22,Female,Yes,Not Graduate,Salaried,451000.0,698.0,293000.0,48,1,0.25,Family,1,Rejected
+LN100869,40,Male,Yes,Not Graduate,Self-employed,332000.0,690.0,97000.0,12,3,0.29,Family,2,Approved
+LN100870,21,Male,Yes,Graduate,Salaried,180000.0,763.0,50000.0,60,1,0.19,Family,1,Approved
+LN100871,57,Female,Yes,Not Graduate,Salaried,663000.0,823.0,283000.0,60,0,0.19,Owned,0,Approved
+LN100872,29,Male,No,Graduate,Salaried,825000.0,616.0,311000.0,60,3,0.38,Rented,1,Approved
+LN100873,37,Male,No,Graduate,Salaried,567000.0,628.0,216000.0,48,1,0.26,Owned,0,Approved
+LN100874,29,Male,No,Graduate,Business,1003000.0,711.0,648000.0,12,1,0.29,Owned,3+,Approved
+LN100875,31,Male,Yes,Graduate,Salaried,290000.0,637.0,270000.0,36,1,0.28,Rented,1,Rejected
+LN100876,35,Female,Yes,Graduate,Business,546000.0,751.0,291000.0,60,0,0.18,Family,3+,Approved
+LN100877,44,Male,No,Graduate,Self-employed,523000.0,761.0,452000.0,24,3,0.44,Rented,0,Rejected
+LN100878,58,Female,Yes,Graduate,Business,565000.0,654.0,298000.0,60,1,0.22,Family,0,Approved
+LN100879,55,Male,No,Graduate,Salaried,1141000.0,640.0,390000.0,60,1,0.17,Owned,1,Approved
+LN100880,50,Male,No,Not Graduate,Daily Wage,566000.0,,74000.0,36,0,0.14,Owned,2,Approved
+LN100881,51,Male,No,Not Graduate,Self-employed,510000.0,697.0,115000.0,36,1,0.19,Rented,1,Rejected
+LN100882,25,Male,No,Not Graduate,Daily Wage,358000.0,710.0,220000.0,48,2,0.31,Rented,0,Approved
+LN100883,34,Male,Yes,Graduate,Daily Wage,1246000.0,544.0,634000.0,60,2,0.34,Family,0,Rejected
+LN100884,31,Female,No,Graduate,Salaried,273000.0,627.0,153000.0,24,3,0.4,Owned,1,Rejected
+LN100885,29,Female,Yes,Not Graduate,Salaried,443000.0,664.0,351000.0,60,1,0.36,Rented,0,Approved
+LN100886,54,Male,No,Graduate,,1523000.0,638.0,744000.0,48,2,0.28,Rented,1,Rejected
+LN100887,32,Female,Yes,Graduate,Self-employed,776000.0,504.0,127000.0,60,1,0.2,Owned,,Rejected
+LN100888,55,Female,No,Graduate,Salaried,593000.0,567.0,240000.0,24,2,0.28,Family,0,Approved
+LN100889,55,Male,No,Graduate,Salaried,607000.0,605.0,307000.0,24,2,0.31,Rented,0,Rejected
+LN100890,21,Male,Yes,Graduate,Salaried,357000.0,683.0,50000.0,60,1,0.14,Rented,0,Approved
+LN100891,60,Male,Yes,Graduate,Salaried,578000.0,662.0,53000.0,60,0,0.07,Family,3+,Approved
+LN100892,42,Male,No,Graduate,Salaried,495000.0,649.0,286000.0,36,0,0.2,Owned,1,Rejected
+LN100893,49,Male,Yes,Graduate,Salaried,662000.0,742.0,166000.0,60,1,0.17,Family,3+,Approved
+LN100894,28,Male,Yes,Graduate,Salaried,262000.0,742.0,221000.0,60,4,0.5,Owned,0,Rejected
+LN100895,31,Female,Yes,Graduate,Salaried,747000.0,700.0,210000.0,12,0,0.1,Owned,2,Approved
+LN100896,57,Male,Yes,Graduate,Salaried,1050000.0,698.0,323000.0,48,0,0.11,Family,0,Approved
+LN100897,34,Male,No,Graduate,Salaried,536000.0,634.0,50000.0,60,0,0.1,Family,1,Approved
+LN100898,50,Female,Yes,Graduate,Business,856000.0,642.0,353000.0,36,2,0.23,Rented,2,Rejected
+LN100899,55,Female,Yes,Graduate,Self-employed,712000.0,579.0,396000.0,36,1,0.31,Rented,2,Rejected
+LN100900,41,Male,Yes,Graduate,Salaried,430000.0,674.0,203000.0,60,0,0.18,Family,2,Rejected
+LN100901,57,Female,Yes,Graduate,Salaried,335000.0,741.0,95000.0,36,1,0.18,Owned,2,Approved
+LN100902,25,Male,Yes,Graduate,Business,362000.0,778.0,225000.0,12,1,0.28,Owned,0,Rejected
+LN100903,39,Male,Yes,Not Graduate,Business,705000.0,674.0,325000.0,60,1,0.27,Rented,1,Approved
+LN100904,34,Male,Yes,Graduate,Business,582000.0,722.0,335000.0,48,2,0.32,Owned,1,Rejected
+LN100905,46,Male,Yes,Graduate,Self-employed,1210000.0,504.0,276000.0,60,0,0.14,Owned,3+,Approved
+LN100906,24,Male,No,Graduate,Salaried,927000.0,662.0,350000.0,60,1,0.19,Family,0,Approved
+LN100907,45,Male,Yes,Graduate,Salaried,926000.0,660.0,558000.0,12,0,0.23,Owned,3+,Rejected
+LN100908,45,Male,No,Graduate,Salaried,693000.0,787.0,389000.0,24,0,0.25,Family,1,Approved
+LN100909,38,Male,,Graduate,Daily Wage,353000.0,716.0,173000.0,36,1,0.24,Rented,2,Rejected
+LN100910,60,Male,Yes,Not Graduate,Self-employed,718000.0,722.0,266000.0,36,0,0.14,Rented,0,Approved
+LN100911,28,Female,No,Graduate,Business,621000.0,719.0,258000.0,60,1,0.24,Rented,,Approved
+LN100912,59,Male,,Graduate,Salaried,321000.0,693.0,151000.0,48,0,0.18,Rented,2,Approved
+LN100913,60,Male,No,Graduate,Business,1167000.0,790.0,237000.0,36,0,0.09,Owned,1,Approved
+LN100914,34,Male,No,Not Graduate,Salaried,1100000.0,540.0,280000.0,24,2,0.24,Owned,3+,Rejected
+LN100915,52,Male,Yes,Graduate,Salaried,320000.0,700.0,82000.0,36,1,0.26,Rented,2,Approved
+LN100916,58,Male,No,Not Graduate,Salaried,422000.0,763.0,50000.0,48,2,0.18,Owned,1,Rejected
+LN100917,53,Female,Yes,Graduate,Self-employed,443000.0,567.0,78000.0,36,2,0.22,Owned,3+,Rejected
+LN100918,43,Male,Yes,Not Graduate,Salaried,839000.0,744.0,300000.0,24,1,0.19,Family,2,Approved
+LN100919,35,Male,Yes,Not Graduate,Business,788000.0,641.0,392000.0,48,2,0.27,Family,2,Rejected
+LN100920,53,Female,Yes,Graduate,Salaried,615000.0,697.0,426000.0,12,1,0.26,Owned,0,Rejected
+LN100921,45,Male,No,Graduate,Self-employed,698000.0,639.0,121000.0,36,0,0.15,Owned,1,Approved
+LN100922,37,Male,No,Graduate,Self-employed,296000.0,752.0,50000.0,60,0,0.18,Rented,2,Approved
+LN100923,53,Male,No,Graduate,Salaried,740000.0,671.0,360000.0,12,1,0.25,Family,3+,Approved
+LN100924,22,Male,Yes,Graduate,Business,568000.0,745.0,263000.0,48,0,0.16,Owned,0,Approved
+LN100925,34,Male,Yes,Graduate,Business,413000.0,718.0,306000.0,36,0,0.29,Owned,0,Approved
+LN100926,60,Male,Yes,Graduate,Business,258000.0,638.0,237000.0,12,0,0.19,Family,1,Approved
+LN100927,60,Male,No,Graduate,Business,609000.0,723.0,94000.0,24,0,0.15,Family,0,Approved
+LN100928,59,Female,Yes,Not Graduate,Business,730000.0,647.0,485000.0,60,0,0.18,Rented,2,Approved
+LN100929,26,Female,No,Graduate,Salaried,235000.0,694.0,177000.0,48,0,0.23,Owned,2,Approved
+LN100930,26,Female,Yes,Graduate,Business,606000.0,670.0,,60,0,0.15,Rented,1,Rejected
+LN100931,23,Male,Yes,Graduate,Salaried,642000.0,748.0,342000.0,48,0,0.14,Rented,3+,Approved
+LN100932,27,Male,No,Not Graduate,Salaried,442000.0,725.0,120000.0,48,1,0.21,Owned,1,Approved
+LN100933,28,Male,No,Graduate,Salaried,739000.0,688.0,303000.0,36,0,0.18,Owned,2,Approved
+LN100934,35,Male,Yes,Graduate,Business,558000.0,645.0,109000.0,36,3,0.35,Owned,0,Approved
+LN100935,49,Male,No,Graduate,Business,701000.0,608.0,215000.0,36,2,0.36,Rented,1,Approved
+LN100936,53,Male,Yes,Graduate,Salaried,805000.0,699.0,390000.0,36,1,0.19,Rented,2,Approved
+LN100937,50,,No,Graduate,Business,805000.0,649.0,152000.0,36,2,0.29,Family,0,Rejected
+LN100938,59,Female,Yes,Not Graduate,Daily Wage,1050000.0,568.0,265000.0,24,1,0.2,Rented,1,Rejected
+LN100939,47,Male,No,Not Graduate,Salaried,723000.0,604.0,61000.0,24,0,0.09,Family,0,Approved
+LN100940,56,Male,No,Graduate,Salaried,462000.0,796.0,336000.0,36,3,0.41,Family,0,Rejected
+LN100941,49,Male,Yes,Not Graduate,Business,,647.0,376000.0,36,0,0.22,Owned,,Approved
+LN100942,58,Female,Yes,,Salaried,334000.0,760.0,216000.0,60,3,0.34,Owned,0,Approved
+LN100943,53,Male,No,Graduate,Self-employed,,667.0,70000.0,60,1,0.11,Rented,3+,Approved
+LN100944,57,Female,Yes,Not Graduate,Salaried,1241000.0,771.0,900000.0,36,0,0.25,Owned,2,Approved
+LN100945,47,Male,No,Graduate,Salaried,493000.0,766.0,369000.0,24,1,0.3,Family,0,Approved
+LN100946,53,Male,Yes,Not Graduate,Business,768000.0,636.0,601000.0,36,1,0.27,Owned,2,Rejected
+LN100947,24,Male,No,Graduate,Business,397000.0,561.0,175000.0,60,0,0.23,Owned,0,Approved
+LN100948,42,Female,No,Graduate,Business,668000.0,566.0,278000.0,12,1,0.21,Rented,1,Rejected
+LN100949,22,Male,No,Graduate,Business,1199000.0,637.0,755000.0,60,2,0.37,Rented,0,Approved
+LN100950,30,Male,Yes,Graduate,Business,,813.0,306000.0,36,1,0.22,Rented,0,Approved
+LN100951,25,Male,No,Not Graduate,Self-employed,253000.0,663.0,176000.0,24,0,0.2,Rented,3+,Rejected
+LN100952,30,Male,Yes,Not Graduate,Salaried,821000.0,699.0,515000.0,36,0,0.21,Owned,0,Approved
+LN100953,53,Male,Yes,Graduate,Self-employed,842000.0,775.0,524000.0,24,2,0.28,Owned,2,Approved
+LN100954,58,Male,No,Not Graduate,Salaried,660000.0,697.0,445000.0,60,1,0.28,Family,1,Rejected
+LN100955,33,Male,No,Not Graduate,Business,866000.0,695.0,431000.0,36,1,0.25,Owned,0,Rejected
+LN100956,51,Male,No,Graduate,Salaried,379000.0,730.0,214000.0,48,4,0.44,Owned,2,Rejected
+LN100957,56,Male,Yes,Graduate,Self-employed,621000.0,709.0,76000.0,48,0,0.15,Rented,1,Approved
+LN100958,44,Male,Yes,Graduate,Salaried,1105000.0,684.0,547000.0,48,1,0.25,Owned,1,Approved
+LN100959,35,Male,Yes,Graduate,Business,1051000.0,,461000.0,36,2,0.24,Rented,0,Approved
+LN100960,49,Female,Yes,Not Graduate,Business,811000.0,695.0,236000.0,12,2,0.3,Rented,0,Rejected
+LN100961,28,Male,Yes,Graduate,,369000.0,761.0,91000.0,36,0,0.14,Rented,3+,Approved
+LN100962,25,Male,No,Not Graduate,Business,339000.0,806.0,215000.0,24,0,0.15,Rented,1,Approved
+LN100963,49,Female,Yes,Graduate,Salaried,639000.0,709.0,378000.0,60,2,0.33,Owned,0,Approved
+LN100964,24,Male,No,Graduate,Self-employed,663000.0,739.0,415000.0,12,0,0.23,Rented,2,Approved
+LN100965,32,Female,No,Graduate,Business,568000.0,708.0,352000.0,48,3,0.36,Owned,0,Rejected
+LN100966,22,Male,No,Graduate,Salaried,,684.0,191000.0,24,0,0.18,Owned,0,Rejected
+LN100967,47,Female,No,Graduate,,763000.0,723.0,519000.0,60,0,0.2,Rented,0,Approved
+LN100968,51,Male,No,Graduate,Salaried,637000.0,767.0,455000.0,36,0,0.24,Owned,1,Approved
+LN100969,56,Male,Yes,Graduate,Salaried,704000.0,632.0,342000.0,36,2,0.3,Rented,0,Rejected
+LN100970,56,Male,Yes,Graduate,Daily Wage,,596.0,698000.0,60,3,0.38,Rented,1,Rejected
+LN100971,46,Female,Yes,Graduate,Salaried,516000.0,655.0,423000.0,36,1,,Family,3+,Rejected
+LN100972,47,Female,Yes,Not Graduate,Daily Wage,459000.0,704.0,264000.0,60,3,0.35,Rented,,Approved
+LN100973,25,Male,No,Graduate,Daily Wage,1103000.0,747.0,397000.0,12,0,0.07,Owned,0,Approved
+LN100974,40,Male,Yes,Graduate,Salaried,396000.0,626.0,130000.0,36,0,0.14,Owned,1,Approved
+LN100975,31,Female,No,Graduate,Self-employed,464000.0,528.0,140000.0,60,2,0.3,Owned,1,Rejected
+LN100976,30,Male,No,Graduate,Salaried,1183000.0,657.0,337000.0,60,2,0.25,Rented,,Rejected
+LN100977,60,Female,Yes,Not Graduate,Salaried,444000.0,677.0,68000.0,36,2,0.18,Owned,1,Approved
+LN100978,58,Female,No,Graduate,Salaried,568000.0,614.0,220000.0,60,2,0.24,Owned,0,Rejected
+LN100979,26,Male,Yes,Graduate,Salaried,478000.0,641.0,50000.0,48,1,0.14,,1,Rejected
+LN100980,28,Male,Yes,Not Graduate,Salaried,225000.0,746.0,101000.0,60,0,0.16,Rented,0,Approved
+LN100981,43,Male,No,Graduate,,561000.0,695.0,289000.0,36,3,0.35,Rented,2,Rejected
+LN100982,46,Male,Yes,Graduate,Daily Wage,344000.0,712.0,77000.0,24,0,0.16,Rented,0,Approved
+LN100983,32,Female,No,Graduate,Business,690000.0,667.0,386000.0,60,1,0.26,Rented,0,Rejected
+LN100984,46,Male,Yes,Graduate,Business,1102000.0,641.0,727000.0,60,2,0.33,Rented,1,Approved
+LN100985,33,Female,Yes,Graduate,Self-employed,180000.0,666.0,50000.0,36,0,0.21,Rented,0,Approved
+LN100986,60,Male,No,Graduate,Business,480000.0,722.0,181000.0,12,2,0.31,Owned,1,Rejected
+LN100987,38,Female,Yes,Not Graduate,Salaried,769000.0,593.0,128000.0,24,0,0.16,Rented,0,Approved
+LN100988,45,Male,Yes,Not Graduate,Business,181000.0,797.0,125000.0,48,2,0.27,Rented,3+,Rejected
+LN100989,53,Male,Yes,Graduate,Daily Wage,1251000.0,727.0,430000.0,12,1,0.19,Owned,0,Rejected
+LN100990,60,Male,No,Graduate,Salaried,739000.0,655.0,159000.0,36,1,0.14,Owned,,Approved
+LN100991,32,Female,Yes,Not Graduate,Self-employed,1089000.0,743.0,616000.0,36,1,0.23,Owned,0,Approved
+LN100992,56,Male,Yes,Graduate,Business,440000.0,769.0,180000.0,60,0,,,2,Approved
+LN100993,24,Female,Yes,Not Graduate,Daily Wage,470000.0,669.0,247000.0,12,1,0.24,Rented,0,Approved
+LN100994,25,Male,Yes,Not Graduate,Business,549000.0,676.0,50000.0,36,1,0.21,Owned,2,Rejected
+LN100995,57,Male,No,Not Graduate,Salaried,1945000.0,787.0,725000.0,48,1,0.25,Owned,0,Rejected
+LN100996,28,Male,No,Graduate,Salaried,1239000.0,828.0,756000.0,48,0,0.21,Family,1,Approved
+LN100997,48,Male,Yes,Graduate,Salaried,645000.0,692.0,254000.0,36,0,0.21,Owned,2,Rejected
+LN100998,51,Male,No,Graduate,Business,690000.0,615.0,273000.0,36,0,0.22,Owned,1,Approved
+LN100999,29,Female,Yes,Not Graduate,Salaried,851000.0,659.0,212000.0,60,2,0.27,Owned,1,Approved
+LN101000,49,Female,No,Graduate,Business,2236000.0,757.0,510000.0,60,0,0.15,Rented,0,Approved

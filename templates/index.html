@@ -1,0 +1,1493 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Bhaskar's Loan Project</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+          rel="stylesheet">
+
+    <!-- FastAPI + Jinja2 Static CSS -->
+    <link rel="stylesheet"
+          href="{{ url_for('static', path='css/style.css') }}">
+</head>
+
+<body>
+
+    <!-- Background Effects -->
+    <div class="background-effects">
+        <div class="orb orb-blue"></div>
+        <div class="orb orb-purple"></div>
+        <div class="orb orb-pink"></div>
+    </div>
+
+
+    <!-- ================= NAVBAR ================= -->
+
+    <header class="navbar">
+
+        <div class="navbar-container">
+
+            <a href="/" class="brand">
+
+                <div class="brand-logo">
+                    ₹
+                </div>
+
+                <div class="brand-text">
+                    <strong>Bhaskar's Loan project</strong>
+                    <span>Smart Loan Services</span>
+                </div>
+
+            </a>
+
+
+            <div class="secure-badge">
+
+                <span class="online-dot"></span>
+
+                <span>
+                    Secure Application
+                </span>
+
+            </div>
+            <div class="nav-actions">
+
+                <a
+                    href="/dashboard"
+                    class="dashboard-nav-btn"
+                >
+                    📊 Dashboard
+                </a>
+
+            </div>
+
+        </div>
+
+    </header>
+
+
+    <!-- ================= HERO ================= -->
+
+    <main>
+
+        <section class="hero">
+
+            <div class="hero-container">
+
+
+                <!-- LEFT SIDE -->
+
+                <div class="hero-content">
+
+                    <div class="hero-badge">
+                        <span>✦</span>
+                        FAST & SECURE LOAN ASSESSMENT
+                    </div>
+
+
+                    <h1>
+                        Your financial goals.
+                        <span>Our smart assessment.</span>
+                    </h1>
+
+
+                    <p class="hero-description">
+
+                        Apply for a loan in a few simple steps.
+                        Provide your financial details and receive
+                        an instant preliminary assessment powered
+                        by machine learning.
+
+                    </p>
+
+
+                    <div class="hero-buttons">
+
+                        <button
+                            class="primary-button"
+                            id="startApplicationBtn">
+
+                            Start Application
+
+                            <span>→</span>
+
+                        </button>
+
+
+                        <button
+                            class="secondary-button"
+                            id="howItWorksBtn">
+
+                            How It Works
+
+                        </button>
+
+                    </div>
+
+
+                    <!-- Trust Points -->
+
+                    <div class="trust-points">
+
+                        <div class="trust-item">
+                            <span>✓</span>
+                            Secure
+                        </div>
+
+                        <div class="trust-item">
+                            <span>✓</span>
+                            Simple
+                        </div>
+
+                        <div class="trust-item">
+                            <span>✓</span>
+                            Instant Assessment
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <!-- RIGHT SIDE -->
+
+                <div class="hero-card-wrapper">
+
+                    <div class="hero-card">
+
+                        <div class="card-header">
+
+                            <div>
+                                <span class="small-label">
+                                    APPLICATION STATUS
+                                </span>
+
+                                <h3>
+                                    Smart Assessment
+                                </h3>
+                            </div>
+
+                            <div class="live-indicator">
+                                <span></span>
+                                LIVE
+                            </div>
+
+                        </div>
+
+
+                        <!-- Score Circle -->
+
+                        <div class="score-area">
+
+                            <div class="score-circle">
+
+                                <div class="score-inner">
+
+                                    <strong>
+                                        85%
+                                    </strong>
+
+                                    <span>
+                                        Profile Score
+                                    </span>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+                        <div class="profile-status">
+
+                            <span>
+                                Financial Profile
+                            </span>
+
+                            <strong>
+                                Strong
+                            </strong>
+
+                        </div>
+
+
+                        <div class="card-features">
+
+                            <div>
+                                <span>⚡</span>
+                                Quick Assessment
+                            </div>
+
+                            <div>
+                                <span>🔒</span>
+                                Protected
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= HOW IT WORKS ================= -->
+
+        <section
+            class="process-section"
+            id="howItWorks">
+
+            <div class="section-container">
+
+                <div class="section-heading">
+
+                    <span class="section-badge">
+                        SIMPLE PROCESS
+                    </span>
+
+                    <h2>
+                        Apply in four simple steps
+                    </h2>
+
+                    <p>
+                        Our streamlined application process helps
+                        you provide the information needed for a
+                        quick preliminary assessment.
+                    </p>
+
+                </div>
+
+
+                <div class="process-grid">
+
+
+                    <!-- STEP 1 -->
+
+                    <div class="process-card">
+
+                        <div class="step-number">
+                            01
+                        </div>
+
+                        <div class="process-icon">
+                            👤
+                        </div>
+
+                        <h3>
+                            Personal Information
+                        </h3>
+
+                        <p>
+                            Tell us a little about yourself and
+                            your personal profile.
+                        </p>
+
+                    </div>
+
+
+                    <!-- STEP 2 -->
+
+                    <div class="process-card">
+
+                        <div class="step-number">
+                            02
+                        </div>
+
+                        <div class="process-icon">
+                            💼
+                        </div>
+
+                        <h3>
+                            Employment & Income
+                        </h3>
+
+                        <p>
+                            Provide your employment and income
+                            information.
+                        </p>
+
+                    </div>
+
+
+                    <!-- STEP 3 -->
+
+                    <div class="process-card">
+
+                        <div class="step-number">
+                            03
+                        </div>
+
+                        <div class="process-icon">
+                            📊
+                        </div>
+
+                        <h3>
+                            Financial Details
+                        </h3>
+
+                        <p>
+                            Enter your credit and existing
+                            financial information.
+                        </p>
+
+                    </div>
+
+
+                    <!-- STEP 4 -->
+
+                    <div class="process-card">
+
+                        <div class="step-number">
+                            04
+                        </div>
+
+                        <div class="process-icon">
+                            ✨
+                        </div>
+
+                        <h3>
+                            Smart Assessment
+                        </h3>
+
+                        <p>
+                            Receive your preliminary application
+                            assessment.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= APPLICATION ================= -->
+
+        <section
+            class="application-section hidden"
+            id="applicationSection">
+
+            <div class="application-container">
+
+
+                <!-- Application Header -->
+
+                <div class="application-top">
+
+                    <div>
+
+                        <span class="section-badge">
+                            LOAN APPLICATION
+                        </span>
+
+                        <h2>
+                            Tell us about yourself
+                        </h2>
+
+                        <p>
+                            Complete the information below to
+                            continue your application.
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+                <!-- Progress -->
+
+                <div class="progress-container">
+
+                    <div class="progress-top">
+
+                        <span id="stepLabel">
+                            Step 1 of 4
+                        </span>
+
+                        <span id="progressPercent">
+                            25%
+                        </span>
+
+                    </div>
+
+                    <div class="progress-bar">
+
+                        <div
+                            class="progress-fill"
+                            id="progressFill">
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <!-- ================= FORM ================= -->
+
+                <form id="loanForm">
+
+
+                    <!-- STEP 1 -->
+
+                    <div
+                        class="form-step active"
+                        data-step="1">
+
+                        <div class="form-card">
+
+                            <div class="form-card-header">
+
+                                <div class="form-icon">
+                                    👤
+                                </div>
+
+                                <div>
+                                    <h3>
+                                        Personal Information
+                                    </h3>
+
+                                    <p>
+                                        Basic information about
+                                        the applicant.
+                                    </p>
+                                </div>
+
+                            </div>
+
+
+                            <div class="form-grid">
+
+
+                                <div class="form-group">
+
+                                    <label for="Age">
+                                        Age
+                                    </label>
+
+                                    <input
+                                        type="number"
+                                        id="Age"
+                                        name="Age"
+                                        min="18"
+                                        max="80"
+                                        placeholder="Enter your age"
+                                        required>
+
+                                    <small class="error-message"
+                                           id="AgeError">
+                                    </small>
+
+                                </div>
+
+
+                                <div class="form-group">
+
+                                    <label for="Gender">
+                                        Gender
+                                    </label>
+
+                                    <select
+                                        id="Gender"
+                                        name="Gender"
+                                        required>
+
+                                        <option value="">
+                                            Select gender
+                                        </option>
+
+                                        <option value="Male">
+                                            Male
+                                        </option>
+
+                                        <option value="Female">
+                                            Female
+                                        </option>
+
+                                    </select>
+
+                                    <small class="error-message"
+                                           id="GenderError">
+                                    </small>
+
+                                </div>
+
+
+                                <div class="form-group">
+
+                                    <label for="Married">
+                                        Marital Status
+                                    </label>
+
+                                    <select
+                                        id="Married"
+                                        name="Married"
+                                        required>
+
+                                        <option value="">
+                                            Select status
+                                        </option>
+
+                                        <option value="Yes">
+                                            Married
+                                        </option>
+
+                                        <option value="No">
+                                            Single
+                                        </option>
+
+                                    </select>
+
+                                </div>
+
+
+                                <div class="form-group">
+
+                                    <label for="Dependents">
+                                        Dependents
+                                    </label>
+
+                                    <select
+                                        id="Dependents"
+                                        name="Dependents"
+                                        required>
+
+                                        <option value="">
+                                            Select dependents
+                                        </option>
+
+                                        <option value="0">
+                                            0
+                                        </option>
+
+                                        <option value="1">
+                                            1
+                                        </option>
+
+                                        <option value="2">
+                                            2
+                                        </option>
+
+                                        <option value="3+">
+                                            3+
+                                        </option>
+
+                                    </select>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- STEP 2 -->
+
+                    <div
+                        class="form-step"
+                        data-step="2">
+
+                        <div class="form-card">
+
+                            <div class="form-card-header">
+
+                                <div class="form-icon">
+                                    💼
+                                </div>
+
+                                <div>
+
+                                    <h3>
+                                        Employment & Income
+                                    </h3>
+
+                                    <p>
+                                        Tell us about your income
+                                        and employment.
+                                    </p>
+
+                                </div>
+
+                            </div>
+
+
+                            <div class="form-grid">
+
+
+                                <div class="form-group">
+
+                                    <label for="Education">
+                                        Education
+                                    </label>
+
+                                    <select
+                                        id="Education"
+                                        name="Education"
+                                        required>
+
+                                        <option value="">
+                                            Select education
+                                        </option>
+
+                                        <option value="Graduate">
+                                            Graduate
+                                        </option>
+
+                                        <option value="Not Graduate">
+                                            Not Graduate
+                                        </option>
+
+                                    </select>
+
+                                </div>
+
+
+                                <div class="form-group">
+
+                                    <label for="Employment_Type">
+                                        Employment Type
+                                    </label>
+
+                                    <select
+                                        id="Employment_Type"
+                                        name="Employment_Type"
+                                        required>
+
+                                        <option value="">
+                                            Select employment type
+                                        </option>
+
+                                        <option value="Salaried">
+                                            Salaried
+                                        </option>
+
+                                        <option value="Business">
+                                            Business
+                                        </option>
+
+                                        <option value="Self-employed">
+                                            Self-employed
+                                        </option>
+
+                                        <option value="Daily Wage">
+                                            Daily Wage
+                                        </option>
+
+                                    </select>
+
+                                </div>
+
+
+                                <div class="form-group">
+
+                                    <label for="Annual_Income">
+                                        Annual Income
+                                    </label>
+
+                                    <div class="input-with-symbol">
+
+                                        <span>₹</span>
+
+                                        <input
+                                            type="number"
+                                            id="Annual_Income"
+                                            name="Annual_Income"
+                                            min="1"
+                                            placeholder="Example: 600000"
+                                            required>
+
+                                    </div>
+
+                                    <small
+                                        class="field-hint"
+                                        id="incomePreview">
+                                    </small>
+
+                                </div>
+
+
+                                <div class="form-group">
+
+                                    <label for="Existing_Loans">
+                                        Existing Loans
+                                    </label>
+
+                                    <input
+                                        type="number"
+                                        id="Existing_Loans"
+                                        name="Existing_Loans"
+                                        min="0"
+                                        placeholder="Number of existing loans"
+                                        required>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- STEP 3 -->
+
+                    <div
+                        class="form-step"
+                        data-step="3">
+
+                        <div class="form-card">
+
+                            <div class="form-card-header">
+
+                                <div class="form-icon">
+                                    📊
+                                </div>
+
+                                <div>
+
+                                    <h3>
+                                        Financial Details
+                                    </h3>
+
+                                    <p>
+                                        Provide your credit and
+                                        loan information.
+                                    </p>
+
+                                </div>
+
+                            </div>
+
+
+                            <div class="form-grid">
+
+
+                                <div class="form-group">
+
+                                    <label for="Credit_Score">
+                                        Credit Score
+                                    </label>
+
+                                    <input
+                                        type="number"
+                                        id="Credit_Score"
+                                        name="Credit_Score"
+                                        min="300"
+                                        max="900"
+                                        placeholder="300 - 900"
+                                        required>
+
+                                    <div class="credit-meter">
+
+                                        <div
+                                            class="credit-fill"
+                                            id="creditFill">
+                                        </div>
+
+                                    </div>
+
+                                    <small
+                                        id="creditText"
+                                        class="field-hint">
+                                        Enter your credit score
+                                    </small>
+
+                                </div>
+
+
+                                <div class="form-group">
+
+                                    <label for="Loan_Amount">
+                                        Loan Amount
+                                    </label>
+
+                                    <div class="input-with-symbol">
+
+                                        <span>₹</span>
+
+                                        <input
+                                            type="number"
+                                            id="Loan_Amount"
+                                            name="Loan_Amount"
+                                            min="1"
+                                            placeholder="Example: 500000"
+                                            required>
+
+                                    </div>
+
+                                    <small
+                                        class="field-hint"
+                                        id="loanPreview">
+                                    </small>
+
+                                </div>
+
+
+                                <div class="form-group">
+
+                                    <label for="Loan_Term">
+                                        Loan Term
+                                    </label>
+
+                                    <select
+                                        id="Loan_Term"
+                                        name="Loan_Term"
+                                        required>
+
+                                        <option value="">
+                                            Select loan term
+                                        </option>
+
+                                        <option value="12">
+                                            12 months
+                                        </option>
+
+                                        <option value="24">
+                                            24 months
+                                        </option>
+
+                                        <option value="36">
+                                            36 months
+                                        </option>
+
+                                        <option value="48">
+                                            48 months
+                                        </option>
+
+                                        <option value="60">
+                                            60 months
+                                        </option>
+
+                                    </select>
+
+                                </div>
+
+
+                                <div class="form-group">
+
+                                    <label for="Debt_to_Income">
+                                        Debt-to-Income Ratio
+                                    </label>
+
+                                    <input
+                                        type="number"
+                                        id="Debt_to_Income"
+                                        name="Debt_to_Income"
+                                        min="0"
+                                        max="100"
+                                        step="0.1"
+                                        placeholder="Example: 35.5"
+                                        required>
+
+                                    <small
+                                        class="field-hint"
+                                        id="dtiText">
+                                    </small>
+
+                                </div>
+
+
+                                <div class="form-group full-width">
+
+                                    <label for="Property_Ownership">
+                                        Property Ownership
+                                    </label>
+
+                                    <select
+                                        id="Property_Ownership"
+                                        name="Property_Ownership"
+                                        required>
+
+                                        <option value="">
+                                            Select property ownership
+                                        </option>
+
+                                        <option value="Owned">
+                                            Owned
+                                        </option>
+
+                                        <option value="Rented">
+                                            Rented
+                                        </option>
+
+                                        <option value="Family">
+                                            Family
+                                        </option>
+
+                                    </select>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- STEP 4 -->
+
+                    <div
+                        class="form-step"
+                        data-step="4">
+
+                        <div class="form-card review-card">
+
+                            <div class="form-card-header">
+
+                                <div class="form-icon">
+                                    ✓
+                                </div>
+
+                                <div>
+
+                                    <h3>
+                                        Review Application
+                                    </h3>
+
+                                    <p>
+                                        Check your information
+                                        before submitting.
+                                    </p>
+
+                                </div>
+
+                            </div>
+
+
+                            <div
+                                id="reviewContainer"
+                                class="review-container">
+                            </div>
+
+
+                            <div class="review-note">
+
+                                🔒 Your information is securely
+                                processed for this preliminary
+                                assessment.
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- FORM NAVIGATION -->
+
+                    <div class="form-navigation">
+
+                        <button
+                            type="button"
+                            class="back-button"
+                            id="backBtn">
+
+                            ← Back
+
+                        </button>
+
+
+                        <button
+                            type="button"
+                            class="primary-button"
+                            id="nextBtn">
+
+                            Continue
+                            <span>→</span>
+
+                        </button>
+
+
+                        <button
+                            type="submit"
+                            class="primary-button hidden"
+                            id="submitBtn">
+
+                            Check Application
+                            <span>✓</span>
+
+                        </button>
+
+                    </div>
+
+                </form>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= LOADING ================= -->
+
+        <section
+            class="loading-section hidden"
+            id="loadingSection">
+
+            <div class="loading-card">
+
+                <div class="loading-animation">
+
+                    <div class="spinner"></div>
+
+                    <div class="loading-icon">
+                        ₹
+                    </div>
+
+                </div>
+
+
+                <h2>
+                    Analyzing your application
+                </h2>
+
+                <p>
+                    Our machine learning model is reviewing
+                    your application details.
+                </p>
+
+
+                <div class="loading-steps">
+
+                    <div class="loading-step active">
+                        <span>✓</span>
+                        Checking application details
+                    </div>
+
+                    <div class="loading-step">
+                        <span>○</span>
+                        Processing financial profile
+                    </div>
+
+                    <div class="loading-step">
+                        <span>○</span>
+                        Generating assessment
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= RESULT ================= -->
+
+        <section
+            class="result-section hidden"
+            id="resultSection">
+
+            <div class="result-card">
+
+                <div
+                    class="result-icon"
+                    id="resultIcon">
+                    ✓
+                </div>
+
+
+                <span class="section-badge">
+                    APPLICATION ASSESSMENT
+                </span>
+
+
+                <h2 id="resultTitle">
+                    Application Result
+                </h2>
+
+
+                <p id="resultMessage">
+                    Your application has been processed.
+                </p>
+
+
+                <!-- Probability -->
+
+                <div class="probability-card">
+
+                    <div class="probability-header">
+
+                        <span>
+                            Model Confidence
+                        </span>
+
+                        <strong id="resultProbability">
+                            0%
+                        </strong>
+
+                    </div>
+
+
+                    <div class="probability-bar">
+
+                        <div
+                            id="probabilityFill"
+                            class="probability-fill">
+                        </div>
+
+                    </div>
+
+                </div>
+                <!-- APPLICATION SUMMARY -->
+
+<div class="application-summary">
+
+    <div class="summary-header">
+
+        <div>
+            <span class="section-tag">
+                APPLICATION SUMMARY
+            </span>
+
+            <h3>Your Loan Application Details</h3>
+        </div>
+
+        <div class="application-id-box">
+            <span>Application ID</span>
+            <strong id="summaryApplicationId">
+                --
+            </strong>
+        </div>
+
+    </div>
+
+
+    <!-- Applicant Information -->
+
+    <div class="summary-group">
+
+        <h4>Applicant Information</h4>
+
+        <div class="summary-grid">
+
+            <div class="summary-item">
+                <span>Age</span>
+                <strong id="summaryAge">--</strong>
+            </div>
+
+            <div class="summary-item">
+                <span>Gender</span>
+                <strong id="summaryGender">--</strong>
+            </div>
+
+            <div class="summary-item">
+                <span>Marital Status</span>
+                <strong id="summaryMarried">--</strong>
+            </div>
+
+            <div class="summary-item">
+                <span>Education</span>
+                <strong id="summaryEducation">--</strong>
+            </div>
+
+            <div class="summary-item">
+                <span>Employment Type</span>
+                <strong id="summaryEmployment">--</strong>
+            </div>
+
+            <div class="summary-item">
+                <span>Dependents</span>
+                <strong id="summaryDependents">--</strong>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- Financial Information -->
+
+    <div class="summary-group">
+
+        <h4>Financial Information</h4>
+
+        <div class="summary-grid">
+
+            <div class="summary-item">
+                <span>Annual Income</span>
+                <strong id="summaryIncome">--</strong>
+            </div>
+
+            <div class="summary-item">
+                <span>Credit Score</span>
+                <strong id="summaryCreditScore">--</strong>
+            </div>
+
+            <div class="summary-item">
+                <span>Existing Loans</span>
+                <strong id="summaryExistingLoans">--</strong>
+            </div>
+
+            <div class="summary-item">
+                <span>Debt-to-Income Ratio</span>
+                <strong id="summaryDTI">--</strong>
+            </div>
+
+            <div class="summary-item">
+                <span>Property Ownership</span>
+                <strong id="summaryProperty">--</strong>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- Loan Information -->
+
+    <div class="summary-group">
+
+        <h4>Loan Information</h4>
+
+        <div class="summary-grid">
+
+            <div class="summary-item">
+                <span>Loan Amount</span>
+                <strong id="summaryLoanAmount">--</strong>
+            </div>
+
+            <div class="summary-item">
+                <span>Loan Term</span>
+                <strong id="summaryLoanTerm">--</strong>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- Report Buttons -->
+
+    <div class="report-actions">
+
+        <button
+            type="button"
+            id="downloadReportBtn"
+            class="primary-btn"
+        >
+            📄 Download Loan Report
+        </button>
+
+        <button
+            type="button"
+            id="printReportBtn"
+            class="secondary-btn"
+        >
+            🖨️ Print Report
+        </button>
+
+    </div>
+
+</div>
+
+
+                <div class="application-id">
+
+                    Application ID:
+                    <strong id="applicationId">
+                        LE-000000
+                    </strong>
+
+                </div>
+
+
+                <div
+                    class="result-status"
+                    id="resultStatus">
+                </div>
+
+
+                <button
+                    class="primary-button"
+                    id="newApplicationBtn">
+
+                    Start New Application
+                    <span>↻</span>
+
+                </button>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer class="footer">
+
+        <div class="footer-container">
+
+            <div>
+
+                <strong>
+                    Bhaskar's Loan Project
+                </strong>
+
+                <p>
+                    Smart technology for smarter
+                    financial decisions.
+                </p>
+
+            </div>
+
+
+            <div class="footer-right">
+
+                🔒 Secure
+                &nbsp;&nbsp;
+                ⚡ Fast
+                &nbsp;&nbsp;
+                🤖 ML Powered
+
+            </div>
+
+        </div>
+<!-- EMI CALCULATOR -->
+<section class="emi-section">
+
+    <div class="section-heading">
+        <span class="section-tag">FINANCIAL TOOLS</span>
+
+        <h2>Calculate Your Monthly EMI</h2>
+
+        <p>
+            Get an estimate of your monthly loan payment before submitting
+            your application.
+        </p>
+    </div>
+
+    <div class="emi-card">
+
+        <div class="emi-inputs">
+
+            <div class="emi-field">
+                <label for="emiLoanAmount">
+                    Loan Amount (₹)
+                </label>
+
+                <input
+                    type="number"
+                    id="emiLoanAmount"
+                    placeholder="Enter loan amount"
+                    value="500000"
+                >
+            </div>
+
+            <div class="emi-field">
+                <label for="emiInterest">
+                    Interest Rate (%)
+                </label>
+
+                <input
+                    type="number"
+                    id="emiInterest"
+                    placeholder="Enter interest rate"
+                    value="10"
+                    step="0.1"
+                >
+            </div>
+
+            <div class="emi-field">
+                <label for="emiTerm">
+                    Loan Term (Years)
+                </label>
+
+                <select id="emiTerm">
+
+                    <option value="1">1 Year</option>
+                    <option value="2">2 Years</option>
+                    <option value="3">3 Years</option>
+                    <option value="5" selected>5 Years</option>
+                    <option value="7">7 Years</option>
+                    <option value="10">10 Years</option>
+                    <option value="15">15 Years</option>
+                    <option value="20">20 Years</option>
+
+                </select>
+            </div>
+
+        </div>
+
+        <button
+            type="button"
+            id="calculateEmiBtn"
+            class="primary-btn emi-btn"
+        >
+            Calculate EMI
+        </button>
+
+        <div
+            id="emiResult"
+            class="emi-result hidden"
+        >
+
+            <div class="emi-main">
+
+                <span>Monthly EMI</span>
+
+                <strong id="monthlyEmi">
+                    ₹0
+                </strong>
+
+            </div>
+
+            <div class="emi-details">
+
+                <div>
+                    <span>Principal Amount</span>
+                    <strong id="emiPrincipal">
+                        ₹0
+                    </strong>
+                </div>
+
+                <div>
+                    <span>Total Interest</span>
+                    <strong id="emiInterestTotal">
+                        ₹0
+                    </strong>
+                </div>
+
+                <div>
+                    <span>Total Payment</span>
+                    <strong id="emiTotalPayment">
+                        ₹0
+                    </strong>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+    </footer>
+
+
+    <!-- FastAPI + Jinja2 Static JavaScript -->
+
+    <script
+        src="{{ url_for('static', path='js/script.js') }}">
+    </script>
+
+</body>
+
+</html>
